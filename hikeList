@@ -1,0 +1,299 @@
+{
+[
+  {
+    "category": "Computer Basics",
+    "videos": [
+      {
+        "title": "Computer Basics 1: The 4 Basic Parts of a Computer",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 2: More Computer Hardware",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 3: Intro to Binary Code",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 4: Decoding a Binary Number",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 5: How To Measure Data Size",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 5: How To Measure Data Size",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 5: How To Measure Data Size",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 6: Measuring Data Speed",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 7: Binary Bytes",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 8: Types of Computers",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 9: More on the Motherboard",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 10: Data Networks",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "FCC Computer Basics 11: IP Addresses",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 12: How the Internet Works",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 13: Software",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 14: Content Delivery Networks",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 15: Analog vs Digital and how File Compression works",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 16: Chips and how Moore's Law works",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 17: How Routers and Packets work",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 18: How Source Code works",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 19: How Variables work in Code",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 20: What Do Programmers Do?",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Computer Basics 21: Chrome JavaScript Console and how Logging works",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      }
+    ]
+  },
+  {
+    "category": "JavaScript Lingo",
+    "videos": [
+      {
+        "title": "JavaScript Lingo: Value Types",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "JavaScript Lingo: MDN and Documentation",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "JavaScript Lingo: Variables & camelCase",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "JavaScript Lingo: Arrays & Objects",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "JavaScript Lingo: Finding and Indexing Data in Arrays",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "JavaScript Lingo: Manipulating Data",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "JavaScript Lingo: Math",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "JavaScript Lingo: Loops",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "JavaScript Lingo: Regular Expressions",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+    ]
+  },
+  {
+    "category": "Chrome Dev Tools",
+    "videos": [
+      {
+        "title": "Chrome Dev Tools: Elements",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Chrome Dev Tools: Network",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Chrome Dev Tools: Sources",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Chrome Dev Tools: Timeline",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Chrome Dev Tools: Profiles",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Chrome Dev Tools: Resources",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Chrome Dev Tools: Audits",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Chrome Dev Tools: Console",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Chrome Dev Tools: Summary",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      }
+    ]
+  },
+  {
+    "category": "Big O Notation",
+    "videos": [
+      {
+        "title": "Big O Notation: What It Is and Why You Should Care",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "Big O Notation: A Few Examples",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      }
+    ]
+  },
+  {
+    "category": "The DOM",
+    "videos": [
+      {
+        "title": "The DOM: What's the Document Object Model?",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      },
+      {
+        "title": "The DOM: Style in the Header, Script in the Footer",
+        "complete": true,
+        "script_author": "Briana",
+        "video_author": "Briana"
+      }
+    ]
+  }
+]
+}
