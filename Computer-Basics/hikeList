@@ -1,0 +1,142 @@
+{
+  "videos": [
+    {
+      "title": "Computer Basics 1: The 4 Basic Parts of a Computer",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 2: More Computer Hardware",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 3: Intro to Binary Code",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 4: Decoding a Binary Number",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 5: How To Measure Data Size",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 5: How To Measure Data Size",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 5: How To Measure Data Size",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 6: Measuring Data Speed",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 7: Binary Bytes",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 8: Types of Computers",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 9: More on the Motherboard",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 10: Data Networks",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "FCC Computer Basics 11: IP Addresses",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 12: How the Internet Works",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 13: Software",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 14: Content Delivery Networks",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 15: Analog vs Digital and how File Compression works",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 16: Chips and how Moore's Law works",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 17: How Routers and Packets work",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 18: How Source Code works",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 19: How Variables work in Code",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 20: What Do Programmers Do?",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Computer Basics 21: Chrome JavaScript Console and how Logging works",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    }
+  ]
+}
