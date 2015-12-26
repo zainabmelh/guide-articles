@@ -1,0 +1,17 @@
+{
+  "category": "Big O Notation",
+  "videos": [
+    {
+      "title": "Big O Notation: What It Is and Why You Should Care",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Big O Notation: A Few Examples",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    }
+  ]
+}
