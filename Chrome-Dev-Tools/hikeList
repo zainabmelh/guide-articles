@@ -1,0 +1,59 @@
+{
+  "category": "Chrome Dev Tools",
+  "videos": [
+    {
+      "title": "Chrome Dev Tools: Elements",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Chrome Dev Tools: Network",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Chrome Dev Tools: Sources",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Chrome Dev Tools: Timeline",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Chrome Dev Tools: Profiles",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Chrome Dev Tools: Resources",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Chrome Dev Tools: Audits",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Chrome Dev Tools: Console",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "Chrome Dev Tools: Summary",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    }
+  ]
+}
