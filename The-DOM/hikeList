@@ -1,0 +1,16 @@
+{
+  "videos": [
+    {
+      "title": "The DOM: What's the Document Object Model?",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "The DOM: Style in the Header, Script in the Footer",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    }
+  ]
+}
