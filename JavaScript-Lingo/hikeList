@@ -1,0 +1,58 @@
+{
+  "videos": [
+    {
+      "title": "JavaScript Lingo: Value Types",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "JavaScript Lingo: MDN and Documentation",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "JavaScript Lingo: Variables & camelCase",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "JavaScript Lingo: Arrays & Objects",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "JavaScript Lingo: Finding and Indexing Data in Arrays",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "JavaScript Lingo: Manipulating Data",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "JavaScript Lingo: Math",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "JavaScript Lingo: Loops",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+    {
+      "title": "JavaScript Lingo: Regular Expressions",
+      "complete": true,
+      "script_author": "Briana",
+      "video_author": "Briana"
+    },
+  ]
+}
