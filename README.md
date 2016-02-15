@@ -60,6 +60,14 @@ The DOM
 - The DOM: What's the Document Object Model?
 - The DOM: Style in the Header, Script in the Footer
 
+Web Accessibility
+- Web Accessibility: What is Web Accessibility? 
+- Web Accessibility: Why You Should Care
+- Web Accessibility: Visual
+- Web Accessibility: Auditory
+- Web Accessibility: Cognitive
+- Web Accessibility: Motor
+
 JavaScript Lingo
 - JavaScript Lingo: Value Types
 - JavaScript Lingo: MDN and Documentation
