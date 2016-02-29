@@ -28,11 +28,6 @@ Computer Basics *Help Wanted*
 - Computer Basics 20: What Do Programmers Do?
 - Computer Basics 21: Chrome JavaScript Console and how Logging works
 - *Computer Basics: How Does RAM Work? - Help wanted!*
-- *Computer Basics: Trees - Help wanted!*
-- *Computer Basics: Red-Black Trees - Help wanted!*
-- *Computer Basics: B-Trees - Help wanted!*
-- *Computer Basics: AVL Trees - Help wanted!*
-- *Computer Basics: Binary Search Trees - Help wanted!*
 - *Computer Basics: What Are Ports? - Help wanted!*
 - *Computer Basics: What is Garbage Collection? - Help wanted!*
 - *Computer Basics: What is Just-In-Time Compilation? - Help wanted!*
@@ -44,17 +39,29 @@ Computer Basics *Help Wanted*
 - *Computer Basics: What Are Threads? - Help wanted!*
 - *Computer Basics: What is an Embarassingly Parallel Algorithm? - Help wanted!*
 - *Computer Basics: What is an Algorithm? - Help wanted!*
-- *Computer Basics: Shortest Path on a Graph - Help wanted!*
 - *Computer Basics: Packets and Data Frames - Help wanted!*
 - *Computer Basics: What is a Matrix? - Help wanted!*
-- *Computer Basics: Queue - Help wanted!*
-- *Computer Basics: Hash Table - Help wanted!*
-- *Computer Basics: Linked List - Help wanted!*
 - *Computer Basics: Dictionary - Help wanted!*
 - *Computer Basics: What is Object Oriented Programming? - Help wanted!*
 - *Computer Basics: How Basic Error Handling Works - Help wanted!*
 - *Computer Basics: What is an SDK? - Help wanted!*
 - *Computer Basics: What is an API? - Help wanted!*
+- 
+Data Structures *Help Wanted*
+- *Data Structures: Arrays - Help wanted!*
+- *Data Structures: Stack - Help wanted!*
+- *Data Structures: Queue - Help wanted!*
+- *Data Structures: HashTables - Help wanted!*
+- *Data Structures: Linked List - Help wanted!*
+- *Data Structures: Types of Linked Lists - Help wanted!*
+- *Data Structures: Trees - Help wanted!*
+- *Data Structures: Binary Trees - Help wanted!*
+- *Data Structures: Binary Search Trees - Help wanted!*
+- *Data Structures: Red Black Trees - Help wanted!*
+- *Data Structures: AVL Trees - Help wanted!*
+- *Data Structures: Heaps - Help wanted!*
+- *Data Structures: Graphs - Help wanted!*
+- *Data Structures: Shortest Path on a Graph - Help wanted!*
 
 The DOM
 - The DOM: What's the Document Object Model?
