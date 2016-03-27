@@ -18,7 +18,7 @@ Here is an overview of our current videos as well as where we'd like to add:
 - Computer Basics 11: IP Addresses
 - Computer Basics 12: How the Internet Works
 - Computer Basics 13: Software
-- *Computer Basics: What does 'Open Source' mean? - Help wanted!*
+- Computer Basics: What does 'Open Source' mean?
 - Computer Basics 14: Content Delivery Networks
 - Computer Basics 15: Analog vs Digital and how File Compression works
 - Computer Basics 16: Chips and how Moore's Law works
@@ -113,6 +113,7 @@ Here is an overview of our current videos as well as where we'd like to add:
 - *UI/UX Design & Development: What is User Centered Design? - Help Wanted!*
 
 ## Web Design *Help Wanted*
+- Web Design: Development vs Design
 
 ## Mobile JavaScript Development
 - *Mobile JavaScript Development: How to Optimize a Page For Loadtime - Help wanted!*
