@@ -151,7 +151,13 @@ Here is an overview of our current videos as well as where we'd like to add:
 - Big O Notation: What It Is and Why You Should Care
 - Big O Notation: A Few Examples
 
-## Math for Programmers 
+## Discrete Mathematics
+- Tips for Learning
+- What is Discrete Mathematics?
+- Introduction to Sets
+- Set Operators
+- Associative & Commutative Laws
+- Distributive Laws
 
 ## Servers & DevOps
 - *Servers & DevOps: File System - Help wanted!*
