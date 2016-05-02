@@ -4,207 +4,177 @@ This is where you can help develop new videos for the hikes.
 
 Here is an overview of our current videos as well as where we'd like to add:
 
-## Computer Basics *Help Wanted*
-- Computer Basics 1: The 4 Basic Parts of a Computer
-- Computer Basics 2: More Computer Hardware
-- Computer Basics 3: Intro to Binary Code
-- Computer Basics 4: Decoding a Binary Number
-- Computer Basics 5: How To Measure Data Size
-- Computer Basics 6: Measuring Data Speed
-- Computer Basics 7: Binary Bytes
-- Computer Basics 8: Types of Computers
-- Computer Basics 9: More on the Motherboard
-- Computer Basics 10: Data Networks
-- Computer Basics 11: IP Addresses
-- Computer Basics 12: How the Internet Works
-- Computer Basics 13: Software
-- Computer Basics: What does 'Open Source' mean?
-- Computer Basics 14: Content Delivery Networks
-- Computer Basics 15: Analog vs Digital and how File Compression works
-- Computer Basics 16: Chips and how Moore's Law works
-- Computer Basics 17: How Routers and Packets work
-- Computer Basics 18: How Source Code works
-- Computer Basics 19: How Variables work in Code
-- Computer Basics 20: What Do Programmers Do?
-- Computer Basics 21: Chrome JavaScript Console and how Logging works
-- *Computer Basics: How Does RAM Work? - Help wanted!*
-- *Computer Basics: What Are Ports? - Help wanted!*
-- *Computer Basics: What is Garbage Collection? - Help wanted!*
-- *Computer Basics: What is Just-In-Time Compilation? - Help wanted!*
-- *Computer Basics: What is Assembly Language? - Help wanted!*
-- *Computer Basics: What is An Interpreter? - Help wanted!*
-- *Computer Basics: Compiled vs Interpreted Languages - Help wanted!*
-- *Computer Basics: What is a Compiler? - Help wanted!*
-- *Computer Basics: What is an Evented Server? - Help wanted!*
-- *Computer Basics: What Are Threads? - Help wanted!*
-- *Computer Basics: What is an Embarassingly Parallel Algorithm? - Help wanted!*
-- *Computer Basics: What is an Algorithm? - Help wanted!*
-- *Computer Basics: Packets and Data Frames - Help wanted!*
-- *Computer Basics: What is a Matrix? - Help wanted!*
-- *Computer Basics: Dictionary - Help wanted!*
-- *Computer Basics: What is Object Oriented Programming? - Help wanted!*
-- *Computer Basics: How Basic Error Handling Works - Help wanted!*
-- *Computer Basics: What is an SDK? - Help wanted!*
-- *Computer Basics: What is an API? - Help wanted!*
-- 
-## Data Structures *Help Wanted*
-- *Data Structures: Arrays - Help wanted!*
-- *Data Structures: Stack - Help wanted!*
-- *Data Structures: Queue - Help wanted!*
-- *Data Structures: HashTables - Help wanted!*
-- *Data Structures: Linked List - Help wanted!*
-- *Data Structures: Types of Linked Lists - Help wanted!*
-- *Data Structures: Trees - Help wanted!*
-- *Data Structures: Binary Trees - Help wanted!*
-- *Data Structures: Binary Search Trees - Help wanted!*
-- *Data Structures: Red Black Trees - Help wanted!*
-- *Data Structures: AVL Trees - Help wanted!*
-- *Data Structures: Heaps - Help wanted!*
-- *Data Structures: Graphs - Help wanted!*
-- *Data Structures: Shortest Path on a Graph - Help wanted!*
+## Proposed Videos
 
-## The DOM
-- The DOM: What's the Document Object Model?
-- The DOM: Style in the Header, Script in the Footer
+Video | Category | User(s) Assigned | Status
+------| -------- | :--------------: | ------
+[What does 'Open Source' mean](https://github.com/FreeCodeCamp/hikes/issues/132) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded 
+[How Does RAM Work?](https://github.com/FreeCodeCamp/hikes/issues/73) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded 
+[What Are Ports?](https://github.com/FreeCodeCamp/hikes/issues/68) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded 
+[What is Garbage Collection?](https://github.com/FreeCodeCamp/hikes/issues/67) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Just-In-Time Compilation?](https://github.com/FreeCodeCamp/hikes/issues/65) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Assembly Language?](https://github.com/FreeCodeCamp/hikes/issues/64) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is An Interpreter?](https://github.com/FreeCodeCamp/hikes/issues/63) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Compiled vs Interpreted Languages](https://github.com/FreeCodeCamp/hikes/issues/62) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is a Compiler?](https://github.com/FreeCodeCamp/hikes/issues/61) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is an Evented Server?](https://github.com/FreeCodeCamp/hikes/issues/60) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What Are Threads?](https://github.com/FreeCodeCamp/hikes/issues/59) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is an Embarassingly Parallel Algorithm?](https://github.com/FreeCodeCamp/hikes/issues/58) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is an Algorithm?](https://github.com/FreeCodeCamp/hikes/issues/57) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Packets and Data Frames](https://github.com/FreeCodeCamp/hikes/issues/55) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is a Matrix?](https://github.com/FreeCodeCamp/hikes/issues/54) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Dictionary](https://github.com/FreeCodeCamp/hikes/issues/48) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Object Oriented Programming?](https://github.com/FreeCodeCamp/hikes/issues/34) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[How Basic Error Handling Works](https://github.com/FreeCodeCamp/hikes/issues/32) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is an SDK?](https://github.com/FreeCodeCamp/hikes/issues/31) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is an API?](https://github.com/FreeCodeCamp/hikes/issues/30) | Computer Basics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+Arrays | Data Structures | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+Stack | Data Structures | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Queue](https://github.com/FreeCodeCamp/hikes/issues/52) | Data Structures | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Hash Tables](https://github.com/FreeCodeCamp/hikes/issues/50) | Data Structures | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Linked List](https://github.com/FreeCodeCamp/hikes/issues/49) | Data Structures | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+Types of Linked Lists | Data Structures | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Trees](https://github.com/FreeCodeCamp/hikes/issues/47) | Data Structures | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+Binary Trees | Data Structures | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Binary Search Trees](https://github.com/FreeCodeCamp/hikes/issues/69) | Data Structures | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Red Black Trees](https://github.com/FreeCodeCamp/hikes/issues/72) | Data Structures | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[AVL Trees](https://github.com/FreeCodeCamp/hikes/issues/70) | Data Structures | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+Heaps | Data Structures | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+Graphs | Data Structures | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Shortest Path on a Graph](https://github.com/FreeCodeCamp/hikes/issues/56) | Data Structures | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Web Accessibility?](https://github.com/FreeCodeCamp/hikes/issues/164) | Web Accessibility | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded 
+[Why You Should Care](https://github.com/FreeCodeCamp/hikes/issues/164) | Web Accessibility | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Visual](https://github.com/FreeCodeCamp/hikes/issues/164) | Web Accessibility | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Auditory](https://github.com/FreeCodeCamp/hikes/issues/164) | Web Accessibility | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Cognitive](https://github.com/FreeCodeCamp/hikes/issues/164) | Web Accessibility | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Motor](https://github.com/FreeCodeCamp/hikes/issues/164) | Web Accessibility | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Different cultures](https://github.com/FreeCodeCamp/hikes/issues/172) | Working in Tech | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Are you a good fit?](https://github.com/FreeCodeCamp/hikes/issues/172) | Working in Tech | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Reality vs. T.V.](https://github.com/FreeCodeCamp/hikes/issues/172) | Working in Tech | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Types of funding/angel investors](https://github.com/FreeCodeCamp/hikes/issues/172) | Working in Tech | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Non-disclosure agreements](https://github.com/FreeCodeCamp/hikes/issues/172) | Working in Tech | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Non-compete clauses](https://github.com/FreeCodeCamp/hikes/issues/172) | Working in Tech | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Equity](https://github.com/FreeCodeCamp/hikes/issues/172) | Working in Tech | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Working as a Freelancer](https://github.com/FreeCodeCamp/hikes/issues/172) | Working in Tech | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Branding yourself](https://github.com/FreeCodeCamp/hikes/issues/172) | Working in Tech | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Unique management strategies](https://github.com/FreeCodeCamp/hikes/issues/172) | Working in Tech | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Introduction to Markdown](https://github.com/FreeCodeCamp/hikes/issues/21) | Tools | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is an IDE?](https://github.com/FreeCodeCamp/hikes/issues/23) | Tools | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Using the Unix/Linux Command Line](https://github.com/FreeCodeCamp/hikes/issues/24) | Tools | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Build Automation?](https://github.com/FreeCodeCamp/hikes/issues/25) | Tools | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Package Managers (npm, Bower)](https://github.com/FreeCodeCamp/hikes/issues/40) | Tools | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Gulp & Grunt](https://github.com/FreeCodeCamp/hikes/issues/41) | Tools | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is the Java Virtual Machine?](https://github.com/FreeCodeCamp/hikes/issues/66) | Tools | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is User Centered Design?](https://github.com/FreeCodeCamp/hikes/issues/29) | UI/UX Design & Development | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+Development vs Design | Web Design | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[How to Optimize a Page For Loadtime](https://github.com/FreeCodeCamp/hikes/issues/127) | Mobile JavaScript Development | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Behavior Driven Development?](https://github.com/FreeCodeCamp/hikes/issues/28) | Agile | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Test Driven Development?](https://github.com/FreeCodeCamp/hikes/issues/27) | Agile | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Natural Language Processing?](https://github.com/FreeCodeCamp/hikes/issues/126) | Software Engineering | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What Does Orthogonal Mean in</br>Software Design?](https://github.com/FreeCodeCamp/hikes/issues/86) | Software Engineering | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Why Comment Your Code?](https://github.com/FreeCodeCamp/hikes/issues/35) | Software Engineering | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is a Version Control System?](https://github.com/FreeCodeCamp/hikes/issues/33) | Software Engineering | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What are Unit Tests?](https://github.com/FreeCodeCamp/hikes/issues/26) | Software Engineering | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Continuous Delivery?](https://github.com/FreeCodeCamp/hikes/issues/22) | Software Engineering | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Graph Databases](https://github.com/FreeCodeCamp/hikes/issues/46) | Databases | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Document Store Databases (MongoDB)](https://github.com/FreeCodeCamp/hikes/issues/44) | Databases | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Relational Databases](https://github.com/FreeCodeCamp/hikes/issues/42) | Databases | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Indexes](https://github.com/FreeCodeCamp/hikes/issues/51) | Databases | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Tips for Learning](https://github.com/FreeCodeCamp/hikes/issues/7) | Discrete Mathematics | @SEGrooms | :white_check_mark: Script </br> :white_check_mark: Recorded
+[What is Discrete Mathematics?](https://github.com/FreeCodeCamp/hikes/issues/4) | Discrete Mathematics | @SEGrooms | :white_check_mark: Script </br> :white_medium_square: Recorded
+[Introduction to Sets](https://github.com/FreeCodeCamp/hikes/issues/8) | Discrete Mathematics | @SEGrooms | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Set Operators](https://github.com/FreeCodeCamp/hikes/issues/13) | Discrete Mathematics | @SEGrooms | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Associative & Commutative Laws](https://github.com/FreeCodeCamp/hikes/issues/10) | Discrete Mathematics | @SEGrooms | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Distributive Laws](https://github.com/FreeCodeCamp/hikes/issues/149) | Discrete Mathematics | @SEGrooms | :white_medium_square: Script </br> :white_medium_square: Recorded
+[File System](https://github.com/FreeCodeCamp/hikes/issues/45) | Servers & DevOps | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Docker](https://github.com/FreeCodeCamp/hikes/issues/39) | Servers & DevOps | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Puppet](https://github.com/FreeCodeCamp/hikes/issues/38) | Servers & DevOps | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Chef?](https://github.com/FreeCodeCamp/hikes/issues/37) | Servers & DevOps | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Vagrant?](https://github.com/FreeCodeCamp/hikes/issues/36) | Servers & DevOps | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Statistics?](https://github.com/FreeCodeCamp/hikes/issues/88) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Probability?](https://github.com/FreeCodeCamp/hikes/issues/89) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Random Sampling](https://github.com/FreeCodeCamp/hikes/issues/125) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Bayesian Statistics](https://github.com/FreeCodeCamp/hikes/issues/116) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[K-Means](https://github.com/FreeCodeCamp/hikes/issues/115) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Regression](https://github.com/FreeCodeCamp/hikes/issues/107) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Markov Chain](https://github.com/FreeCodeCamp/hikes/issues/106) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Analysis of Variance?](https://github.com/FreeCodeCamp/hikes/issues/105) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Bayes' Theorem](https://github.com/FreeCodeCamp/hikes/issues/104) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[P-Value](https://github.com/FreeCodeCamp/hikes/issues/103) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Hypothesis](https://github.com/FreeCodeCamp/hikes/issues/102) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[AB Testing](https://github.com/FreeCodeCamp/hikes/issues/101) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[T-Test](https://github.com/FreeCodeCamp/hikes/issues/100) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Poisson Distribution](https://github.com/FreeCodeCamp/hikes/issues/99) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Binomial Distribution](https://github.com/FreeCodeCamp/hikes/issues/98) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Exponential Distribution](https://github.com/FreeCodeCamp/hikes/issues/97) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Probability Distribution](https://github.com/FreeCodeCamp/hikes/issues/96) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Normal Distribution](https://github.com/FreeCodeCamp/hikes/issues/95) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Variance](https://github.com/FreeCodeCamp/hikes/issues/94) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Standard Deviation](https://github.com/FreeCodeCamp/hikes/issues/93) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Median](https://github.com/FreeCodeCamp/hikes/issues/92) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Mode](https://github.com/FreeCodeCamp/hikes/issues/91) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[Mean](https://github.com/FreeCodeCamp/hikes/issues/90) | Statistics | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Machine Learning?](https://github.com/FreeCodeCamp/hikes/issues/108) | Machine Learning | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Monte Carlo?](https://github.com/FreeCodeCamp/hikes/issues/124) | Machine Learning | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is a Random Forest?](https://github.com/FreeCodeCamp/hikes/issues/123) | Machine Learning | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is a Support Vector Machine?](https://github.com/FreeCodeCamp/hikes/issues/122) | Machine Learning | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is a Gaussian Process?](https://github.com/FreeCodeCamp/hikes/issues/121) | Machine Learning | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Brownian Motion?](https://github.com/FreeCodeCamp/hikes/issues/120) | Machine Learning | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is a Stochastic Process?](https://github.com/FreeCodeCamp/hikes/issues/119) | Machine Learning | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Deep Learning?](https://github.com/FreeCodeCamp/hikes/issues/118) | Machine Learning | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is a Neural Network?](https://github.com/FreeCodeCamp/hikes/issues/117) | Machine Learning | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What are Clustering Algorithms?](https://github.com/FreeCodeCamp/hikes/issues/114) | Machine Learning | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Feature Engineering?](https://github.com/FreeCodeCamp/hikes/issues/113) | Machine Learning | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Logistic Regression?](https://github.com/FreeCodeCamp/hikes/issues/112) | Machine Learning | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Linear Regression?](https://github.com/FreeCodeCamp/hikes/issues/111) | Machine Learning | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Spark?](https://github.com/FreeCodeCamp/hikes/issues/110) | Machine Learning | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is Hadoop?](https://github.com/FreeCodeCamp/hikes/issues/109) | Machine Learning | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
 
-## Web Accessibility
-- Web Accessibility: What is Web Accessibility? 
-- Web Accessibility: Why You Should Care
-- Web Accessibility: Visual
-- Web Accessibility: Auditory
-- Web Accessibility: Cognitive
-- Web Accessibility: Motor
+## Deployed & Live
 
-## JavaScript Lingo
-- JavaScript Lingo: Value Types
-- JavaScript Lingo: MDN and Documentation
-- JavaScript Lingo: Variables & camelCase
-- JavaScript Lingo: Arrays & Objects
-- JavaScript Lingo: Finding and Indexing Data in Arrays
-- JavaScript Lingo: Manipulating Data
-- JavaScript Lingo: Math
-- JavaScript Lingo: Loops
-- JavaScript Lingo: Regular Expressions
-
-## Working in Tech *Help wanted!*
- - *Different cultures - Help Wanted!*
- - *Are you a good fit? - Help Wanted!*
- - *Reality vs. T.V. - Help Wanted!*
- - *Types of funding/angel investors - Help Wanted!*
- - *Non-disclosure agreements - Help Wanted!*
- - *Non-compete clauses - Help Wanted!*
- - *Equity - Help Wanted!*
- - *Working as a Freelancer - Help Wanted!*
- - *Branding yourself - Help Wanted!*
- - *Unique management strategies (i.e. ROWE, AGILE teams, completely remote (think Buffer), etc.) - Help Wanted!*
-
-## Tools
-- *Tools: Introduction to Markdown - Help Wanted!*
-- *Tools: What is an IDE? - Help Wanted!*
-- *Tools: Using the Unix/Linux Command Line - Help Wanted!*
-- *Tools: What is Build Automation? - Help Wanted!*
-- *Tools: Package Managers (npm, Bower) - Help Wanted!*
-- *Tools: Gulp & Grunt - Help Wanted!*
-- *Tools: What is the Java Virtual Machine? - Help Wanted!*
-
-## Data Visualization *Help Wanted*
-
-## UI/UX Design & Development *Help Wanted*
-- *UI/UX Design & Development: What is User Centered Design? - Help Wanted!*
-
-## Web Design *Help Wanted*
-- Web Design: Development vs Design
-
-## Mobile JavaScript Development
-- *Mobile JavaScript Development: How to Optimize a Page For Loadtime - Help wanted!*
-
-## Agile *Help Wanted*
-- *Agile: What is Behavior Driven Development?*
-- *Agile: What is Test Driven Development?*
-
-## Chrome Dev Tools
-- Chrome Dev Tools: Elements
-- Chrome Dev Tools: Network
-- Chrome Dev Tools: Sources
-- Chrome Dev Tools: Timeline
-- Chrome Dev Tools: Profiles
-- Chrome Dev Tools: Resources
-- Chrome Dev Tools: Audits
-- Chrome Dev Tools: Console
-- Chrome Dev Tools: Summary
-
-## Software Engineering
-- *Software Engineering: What is Natural Language Processing? - Help wanted!*
-- *Software Engineering: What Does Orthogonal Mean in Software Design? - Help wanted!*
-- *Software Engineering: Why Comment Your Code? - Help wanted!*
-- *Software Engineering: What is a Version Control System? - Help wanted!*
-- *Software Engineering: What are Unit Tests? - Help wanted!*
-- *Software Engineering: What is Continuous Delivery? - Help wanted!*
-
-## Databases *Help Wanted*
-- *Databases: Graph Databases - Help wanted!*
-- *Databases: Document Store Databases (MongoDB) - Help wanted!*
-- *Databases: Relational Databases - Help wanted!*
-- *Databases: Indexes - Help wanted!*
-
-## Big O Notation
-- Big O Notation: What It Is and Why You Should Care
-- Big O Notation: A Few Examples
-
-## Discrete Mathematics
-- Tips for Learning
-- What is Discrete Mathematics?
-- Introduction to Sets
-- Set Operators
-- Associative & Commutative Laws
-- Distributive Laws
-
-## Servers & DevOps
-- *Servers & DevOps: File System - Help wanted!*
-- *Servers & DevOps: Docker - Help wanted!*
-- *Servers & DevOps: Puppet - Help wanted!*
-- *Servers & DevOps: What is Chef? - Help wanted!*
-- *Servers & DevOps: What is Vagrant? - Help wanted!*
-
-## Statistics
-- *Statistics: What is Statistics? - Help wanted!*
-- *Statistics: What is Probability? - Help wanted!*
-- *Statistics: Random Sampling - Help wanted!*
-- *Statistics: Bayesian Statistics - Help wanted!*
-- *Statistics: K-Means - Help wanted!*
-- *Statistics: Regression - Help wanted!*
-- *Statistics: Markov Chain - Help wanted!*
-- *Statistics: Analysis of Variance? - Help wanted!*
-- *Statistics: Bayes' Theorem - Help wanted!*
-- *Statistics: P-Value - Help wanted!*
-- *Statistics: Hypothesis - Help wanted!*
-- *Statistics: AB Testing - Help wanted!*
-- *Statistics: T-Test - Help wanted!*
-- *Statistics: Poisson Distribution - Help wanted!*
-- *Statistics: Binomial Distribution - Help wanted!*
-- *Statistics: Exponential Distribution - Help wanted!*
-- *Statistics: Probability Distribution - Help wanted!*
-- *Statistics: Normal Distribution - Help wanted!*
-- *Statistics: Variance - Help wanted!*
-- *Statistics: Standard Deviation - Help wanted!*
-- *Statistics: Median - Help wanted!*
-- *Statistics: Mode - Help wanted!*
-- *Statistics: Mean - Help wanted!*
-
-## Machine Learning
-- *Machine Learning: What is Machine Learning? - Help wanted!*
-- *Machine Learning: What is Monte Carlo? - Help wanted!*
-- *Machine Learning: What is a Random Forest? - Help wanted!*
-- *Machine Learning: What is a Support Vector Machine? - Help wanted!*
-- *Machine Learning: What is a Gaussian Process? - Help wanted!*
-- *Machine Learning: What is Brownian Motion? - Help wanted!*
-- *Machine Learning: What is a Stochastic Process? - Help wanted!*
-- *Machine Learning: What is Deep Learning? - Help wanted!*
-- *Machine Learning: What is a Neural Network? - Help wanted!*
-- *Machine Learning: What are Clustering Algorithms? - Help wanted!*
-- *Machine Learning: What is Feature Engineering? - Help wanted!*
-- *Machine Learning: What is Logistic Regression? - Help wanted!*
-- *Machine Learning: What is Linear Regression? - Help wanted!*
-- *Machine Learning: What is Spark? - Help wanted!*
-- *Machine Learning: What is Hadoop? - Help wanted!*
-
+Video | Category
+----- | --------
+[The 4 Basic Parts of a Computer](https://www.freecodecamp.com/videos/computer-basics-the-4-basic-parts-of-a-computer) | Computer Basics
+[More Computer Hardware](https://www.freecodecamp.com/videos/computer-basics-more-computer-hardware) | Computer Basics
+[Chips and Moore's Law](https://www.freecodecamp.com/videos/computer-basics-chips-and-moores-law) | Computer Basics
+[Intro to Binary Code](https://www.freecodecamp.com/videos/computer-basics-intro-to-binary-code) | Computer Basics
+[Decoding a Binary Number](https://www.freecodecamp.com/videos/computer-basics-decoding-a-binary-number) | Computer Basics
+[How To Measure Data Size](https://www.freecodecamp.com/videos/computer-basics-how-to-measure-data-size) | Computer Basics
+[Measuring Data Speed](https://www.freecodecamp.com/videos/computer-basics-measuring-data-speed) | Computer Basics
+[Binary Bytes](https://www.freecodecamp.com/videos/computer-basics-binary-bytes) | Computer Basics
+[Types of Computers](https://www.freecodecamp.com/videos/computer-basics-types-of-computers) | Computer Basics
+[More on the Motherboard](https://www.freecodecamp.com/videos/computer-basics-more-on-the-motherboard) | Computer Basics
+[Data Networks](https://www.freecodecamp.com/videos/computer-basics-data-networks) | Computer Basics
+[IP Addresses](https://www.freecodecamp.com/videos/computer-basics-ip-addresses) | Computer Basics
+[How the Internet Works](https://www.freecodecamp.com/videos/computer-basics-how-the-internet-works) | Computer Basics
+[Software](https://www.freecodecamp.com/videos/computer-basics-software) | Computer Basics
+[Content Delivery Networks](https://www.freecodecamp.com/videos/computer-basics-content-delivery-networks) | Computer Basics
+[Analog vs Digital and File Compression](https://www.freecodecamp.com/videos/analog-vs-digital-and-file-compression) | Computer Basics
+[Routers and Packets](https://www.freecodecamp.com/videos/routers-and-packets) | Computer Basics
+[Source Code](https://www.freecodecamp.com/videos/source-code) | Computer Basics
+[Variables In Code](https://www.freecodecamp.com/videos/variables-in-code) | Computer Basics
+[What Do Programmers Do?](https://www.freecodecamp.com/videos/what-do-programmers-do) | Computer Basics
+[Console and Logging](https://www.freecodecamp.com/videos/console-and-logging) | Computer Basics
+[Computer Security](https://www.freecodecamp.com/videos/computer-security) | Computer Basics
+[What's the Document Object Model?](https://www.freecodecamp.com/videos/the-dom-whats-the-document-object-model) | The DOM
+[Style in the Header, Script in the Footer](https://www.freecodecamp.com/videos/the-dom-style-in-the-header-script-in-the-footer) | The DOM
+[MDN and Documentation](https://www.freecodecamp.com/videos/javascript-lingo-mdn-and-documentation) | JavaScript Lingo
+[Value Types](https://www.freecodecamp.com/videos/javascript-lingo-value-types) | JavaScript Lingo
+[Variables & camelCase](https://www.freecodecamp.com/videos/javascript-lingo-variables--camelcase) | JavaScript Lingo
+[Arrays & Objects](https://www.freecodecamp.com/videos/javascript-lingo-arrays--objects) | JavaScript Lingo
+[Finding and Indexing Data in Arrays](https://www.freecodecamp.com/videos/javascript-lingo-finding-and-indexing-data-in-arrays) | JavaScript Lingo
+[Manipulating Data](https://www.freecodecamp.com/videos/javascript-lingo-manipulating-data) | JavaScript Lingo
+[Math](https://www.freecodecamp.com/videos/javascript-lingo-math) | JavaScript Lingo
+[Loops](https://www.freecodecamp.com/videos/javascript-lingo-loops) | JavaScript Lingo
+[Regular Expressions](https://www.freecodecamp.com/videos/javascript-lingo-regular-expressions) | JavaScript Lingo
+[Elements](https://www.freecodecamp.com/videos/chrome-dev-tools-elements) | Chrome Dev Tools
+[Network](https://www.freecodecamp.com/videos/chrome-dev-tools-network) | Chrome Dev Tools
+[Sources](https://www.freecodecamp.com/videos/chrome-dev-tools-sources) | Chrome Dev Tools
+[Timeline](https://www.freecodecamp.com/videos/chrome-dev-tools-timeline) | Chrome Dev Tools
+[Profiles](https://www.freecodecamp.com/videos/chrome-dev-tools-profiles) | Chrome Dev Tools
+[Resources](https://www.freecodecamp.com/videos/chrome-dev-tools-resources) | Chrome Dev Tools
+[Audits](https://www.freecodecamp.com/videos/chrome-dev-tools-audits) | Chrome Dev Tools
+[Console](https://www.freecodecamp.com/videos/chrome-dev-tools-console) | Chrome Dev Tools
+[Summary](https://www.freecodecamp.com/videos/chrome-dev-tools-summary) | Chrome Dev Tools
+[What It Is and Why You Should Care](https://www.freecodecamp.com/videos/big-o-notation-what-it-is-and-why-you-should-care) | Big O Notation
+[A Few Examples](https://www.freecodecamp.com/videos/big-o-notation-a-few-examples) | Big O Notation
