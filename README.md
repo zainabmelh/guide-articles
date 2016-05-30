@@ -65,7 +65,7 @@ Graphs | Data Structures | Help Wanted! | :white_medium_square: Script </br> :wh
 [Package Managers (npm, Bower)](https://github.com/FreeCodeCamp/hikes/issues/40) | Tools | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
 [Gulp & Grunt](https://github.com/FreeCodeCamp/hikes/issues/41) | Tools | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
 [What is the Java Virtual Machine?](https://github.com/FreeCodeCamp/hikes/issues/66) | Tools | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
-[What is User Centered Design?](https://github.com/FreeCodeCamp/hikes/issues/29) | UI/UX Design & Development | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
+[What is User Centered Design?](https://github.com/FreeCodeCamp/hikes/issues/29) | UI/UX Design & Development | Help Wanted! | :white_medium_square: [Script](https://github.com/FreeCodeCamp/hikes/blob/master/UIUX-Design-Development/UXOVERVIEWscript) </br> :white_medium_square: Recorded
 Development vs Design | Web Design | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
 [How to Optimize a Page For Loadtime](https://github.com/FreeCodeCamp/hikes/issues/127) | Mobile JavaScript Development | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
 [What is Behavior Driven Development?](https://github.com/FreeCodeCamp/hikes/issues/28) | Agile | Help Wanted! | :white_medium_square: Script </br> :white_medium_square: Recorded
