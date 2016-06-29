@@ -1,13 +1,14 @@
 {
+  "category": "JavaScript Lingo",
   "videos": [
     {
-      "title": "JavaScript Lingo: Value Types",
+      "title": "JavaScript Lingo: MDN and Documentation",
       "complete": true,
       "script_author": "Briana",
       "video_author": "Briana"
     },
     {
-      "title": "JavaScript Lingo: MDN and Documentation",
+      "title": "JavaScript Lingo: Value Types",
       "complete": true,
       "script_author": "Briana",
       "video_author": "Briana"

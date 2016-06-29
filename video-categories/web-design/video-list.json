@@ -1,10 +1,11 @@
 {
   "category": "Web Design",
   "videos": [
-  {
+  	{
       "title": "Web Design: What's the difference between Design and Development?",
       "complete": false,
       "script_author": null,
       "video_author": null
-    }]
+    }
+  ]
 }
