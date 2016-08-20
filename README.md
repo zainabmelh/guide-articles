@@ -30,7 +30,7 @@ Assumptions:
   - Save your changes and open a pull request comparing to master.
 3. Record your video
   - Set up a whiteboard and record your video 
-4. In your pull request, add a link to your video and @-mention QuincyLarson and brianamarie.
+4. In your pull request, add a link to your video and @-mention atjonathan and brianamarie.
   - You'll get feedback, and we'll work with you to help refine the video so we can include it on FreeCodeCamp.com.
 5. Open a PR in the [Free Code Camp repository](https://github.com/freecodecamp/freecodecamp) with your video links, scripts, and questions to get them added to the site
 
