@@ -1,14 +1,18 @@
 ## Free Code Camp Video Challenges
-This repository exists to help facilitate planning around Free Code Camp's video challenges. Chat with us [in our Gitter room](https://gitter.im/FreeCodeCamp/hikes) for more casual talk about contributing! 
+This is where we plan Free Code Camp's video challenges. Take a look at our [open issues]()https://github.com/FreeCodeCamp/hikes/issues and join our [in our Gitter room](https://gitter.im/FreeCodeCamp/hikes) for more casual talk about contributing.
 
 ### What are Video Challenges?
-Video challenges are a segment of Free Code Camp's curriculum for full stack web development.
+Video challenges are 2 minute-long videos that teach high-level concepts relevant to software development. 
+Assumptions:
+- Viewers will watch these mostly by stumbling upon them in YouTube search. Thus they should be modular and make sense out of order.
+- Viewers will watch these on a mobile phone while commuting, so you should write text and draw diagrams as large as possible on the whiteboard.
+- Viewers will not take time to complete follow up tasks, like running code or reading additional articles. Assume the video is the only contact they will get with the content.
 
 ### Current Video Challenges
 - You can view our current video challenges here: https://www.freecodecamp.com/videos.
 
 ### Labels
-1. ![01: Help Wanted](https://img.shields.io/badge/Label-01: Help Wanted-000000.svg)&nbsp;These issues are open for anyone to work on!
+1. ![01: Help Wanted](https://img.shields.io/badge/Label-01: Help Wanted-000000.svg)&nbsp;These issues are open for anyone to work on.
 2. ![02: Scripting](https://img.shields.io/badge/Label-02: Scripting-000000.svg)&nbsp;This issue has been assigned to someone, who is currently working on a script.
 3. ![03: Recording](https://img.shields.io/badge/Label-03: Recording-000000.svg)&nbsp;This issue is currently being recorded or edited.
 4. ![04: Reviewing](https://img.shields.io/badge/Label-04: Reviewing-000000.svg)&nbsp;This issue is being reviewed by a mod e.g. [`@brianamarie`](https://gitter.im/brianamarie), [`@Septimus`](https://gitter.im/Septimus), [`@atjonathan`](https://gitter.im/atjonathan).
@@ -26,7 +30,7 @@ Video challenges are a segment of Free Code Camp's curriculum for full stack web
   - Save your changes and open a pull request comparing to master.
 3. Record your video
   - Set up a whiteboard and record your video 
-4. Comment in your PR with the link to your video. `@` QuincyLarson and brianamarie
+4. In your pull request, add a link to your video and @-mention atjonathan and brianamarie.
   - You'll get feedback, and we'll work with you to help refine the video so we can include it on FreeCodeCamp.com.
 5. Open a PR in the [Free Code Camp repository](https://github.com/freecodecamp/freecodecamp) with your video links, scripts, and questions to get them added to the site
 
