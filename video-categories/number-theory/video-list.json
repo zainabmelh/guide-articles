@@ -1,0 +1,71 @@
+{
+  "category": "Number Theory",
+  "videos": [
+    {
+      "title": "The Fundamental Theorem of Arithmetic",
+      "complete": false,
+      "script_author": "Shawn Grooms",
+      "video_author": null
+    },
+    {
+      "title": "What is Prime Factorization?",
+      "complete": false,
+      "script_author": "Shawn Grooms",
+      "video_author": null
+    },
+    {
+      "title": "Testing for Prime Numbers",
+      "complete": false,
+      "script_author": "Shawn Grooms",
+      "video_author": null
+    },
+    {
+      "title": "What is the Division Algorithm?",
+      "complete": false,
+      "script_author": "Shawn Grooms",
+      "video_author": null
+    },
+    {
+      "title": "Comparing Base-N Numeral Systems",
+      "complete": false,
+      "script_author": "Shawn Grooms",
+      "video_author": null
+    },
+    {
+      "title": "Can You Represent All Numbers in Binary?",
+      "complete": false,
+      "script_author": "Shawn Grooms",
+      "video_author": null
+    },
+    {
+      "title": "How Do Computers Represent Everything in Binary?",
+      "complete": false,
+      "script_author": "Shawn Grooms",
+      "video_author": null
+    },
+    {
+      "title": "Computers Don't Have to Use Binary!",
+      "complete": false,
+      "script_author": "Shawn Grooms",
+      "video_author": null
+    },
+    {
+      "title": "Why Do Computers Use Binary?",
+      "complete": false,
+      "script_author": "Shawn Grooms",
+      "video_author": null
+    },
+    {
+      "title": "How Does Binary Represent Bytes?",
+      "complete": false,
+      "script_author": "Shawn Grooms",
+      "video_author": null
+    },
+    {
+      "title": "How Precise Are Floting Point Numbers?",
+      "complete": false,
+      "script_author": "Shawn Grooms",
+      "video_author": null
+    }
+  ]
+}
