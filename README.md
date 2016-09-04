@@ -1,3 +1,8 @@
+![](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
+
+
+[![Throughput Graph](https://graphs.waffle.io/FreeCodeCamp/hikes/throughput.svg)](https://waffle.io/FreeCodeCamp/hikes/metrics/throughput)
+
 ## Free Code Camp Video Challenges
 This is where we plan Free Code Camp's video challenges. Take a look at our [open issues](https://github.com/FreeCodeCamp/hikes/issues) and join our [in our Gitter room](https://gitter.im/FreeCodeCamp/hikes) for more casual talk about contributing.
 
