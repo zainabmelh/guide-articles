@@ -6,7 +6,7 @@ In this video, I will define four different set operators. These operations are 
 	“The intersection of A and B” is denoted by A∩B. By definition, A∩B = {q : q∈A and q∈B}.
 	Therefore, A∩B = {2}.
 	
-	“The difference of A and B” is denoted by A∖B. By definition, A∖B = {r : r∈A and r∉B}.
+	“The difference of A and B” is denoted by A∖B. By definition, A∖B = {r∈A : r∉B}.
 	Therefore, A∖B = {1,3} and B∖A = {4,x,y}
 	
 	“The symmetric difference of A and B” is denoted by A∆B or A⊕B = (A∖B) ∪ (B∖A).
