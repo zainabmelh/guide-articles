@@ -1,5 +1,5 @@
 {
-  "category": "Discrete Mathematics",
+  "category": "Math for Programmers",
   "videos": [
     {
       "title": "Introduction: Tips for Learning",
@@ -51,18 +51,72 @@
     },
     {
       "title": "Logic: What is Logic?",
+      "complete": true,
+      "script_author": "Shawn Grooms",
+      "video_author": "Shawn Grooms"
+    },
+    {
+      "title": "Logic: Logical Operators & Truth Tables",
+      "complete": true,
+      "script_author": "Shawn Grooms",
+      "video_author": "Shawn Grooms"
+    },
+    {
+      "title": "Logic: Algebra of Logic",
+      "complete": true,
+      "script_author": "Shawn Grooms",
+      "video_author": "Shawn Grooms"
+    },
+    {
+      "title": "Conditional & Biconditional Statements",
       "complete": false,
       "script_author": "Shawn Grooms",
       "video_author": "Shawn Grooms"
     },
     {
-      "title": "Logic: Logical Operators",
+      "title": "Conditional & Biconditional Examples",
       "complete": false,
       "script_author": "Shawn Grooms",
       "video_author": "Shawn Grooms"
     },
     {
-      "title": "Logic: Algebra of Logic & Conditionals",
+     "title": "What Are Tautologies?",
+     "complete": false,
+     "script_author": "Shawn Grooms",
+     "video_author": "Shawn Grooms"
+    },
+    {
+     "title": "What Are Fallacies?",
+     "complete": false,
+     "script_author": "Shawn Grooms",
+     "video_author": "Shawn Grooms"
+    },
+    {
+      "title": "Knights & Knaves 1",
+      "complete": false,
+      "script_author": "Shawn Grooms",
+      "video_author": "Shawn Grooms"
+    },
+        {
+      "title": "Knights & Knaves 2",
+      "complete": false,
+      "script_author": "Shawn Grooms",
+      "video_author": "Shawn Grooms"
+    },
+        {
+      "title": "Knights & Knaves 3",
+      "complete": false,
+      "script_author": "Shawn Grooms",
+      "video_author": "Shawn Grooms"
+    },
+    {
+      "title": "The Monty Hall Problem",
+      "complete": false,
+      "script_author": "Shawn Grooms",
+      "video_author": "Shawn Grooms"
+    },
+    {
+      "title": "3 Mobsters Riddle",
       "complete": false,
       "script_author": "Shawn Grooms",
       "video_author": "Shawn Grooms"
