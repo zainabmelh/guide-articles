@@ -1,8 +1,9 @@
-#### Name of requested series:
-<!-- Please add the name of the series you request to be created -->
+#### Potential URL:
+<!-- Please add the URL path that you think would make sense. For example, /Web-Development/JavaScript/Statements/Legacy-Generator-Function or /Linux/Distributions/Ubuntu/How-to-Install-Ubuntu-16.04-on-Digital-Ocean -->
 
-#### Proposed episodes for series:
-<!-- Please add the episodes to be included in lexicographical order -->
+#### Suggested Reading:
+<!-- Please add any articles you think might be helpful to read before writing the article -->
 
-#### Description of content:
-<!-- Please add a detailed description on what your requested series/videos should contain -->
+#### Draft of Article:
+<!-- Please add your working draft below in GitHub-flavored Markdown -->
+
