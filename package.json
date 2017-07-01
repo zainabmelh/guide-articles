@@ -1,0 +1,23 @@
+{
+  "name": "guide-articles",
+  "version": "1.0.0",
+  "description": "![](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)",
+  "main": "normaliseArticles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freecodecamp/guide-articles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freecodecamp/guide-articles/issues"
+  },
+  "homepage": "https://github.com/freecodecamp/guide-articles#readme",
+  "devDependencies": {
+    "fs-extra": "^3.0.1"
+  }
+}
