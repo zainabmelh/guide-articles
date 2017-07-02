@@ -1,8 +1,6 @@
 ---
-title: "SASS Syntax and Tools"
-parent: "to-be-sorted"
+title: Sass Syntax and Tools
 ---
-
 _"An artist is only as good as his tools."_
 
 That's not necessarily true, but the tools we use can sure make our lives easier and our tasks more managable. Imagine writing code with no keyboard shortcuts or snippets available! Not the end of the world, but you get the gist.

@@ -1,8 +1,6 @@
 ---
-title: "Assignment with Divided by Equals"
-parent: "certificates-guide"
+title: Assignment with Divided By Equals
 ---
-
 The `/= operator` divides a variable by another number.
 
     myVar = myVar / 5;

@@ -1,8 +1,6 @@
 ---
-title: "Python Web Frameworks and What They Do For You"
-parent: "python"
+title: Python Web Frameworks and What They Do for You
 ---
-
 We have used the word `framework` quite liberally in the earlier articles. You might or might not be familiar with what that is. Nonetheless, we would discuss what Python Web Frameworks do for you, out-of-the-box.
 
 Web Frameworks, to put it informally, does for you what would be doing _repeatedly_ if you were to build a lot of websites with different functionalities.

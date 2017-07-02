@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Array.prototype.sort()"
-parent: "javascript"
+title: javaScript Arrayprototypesort
 ---
-
 The `sort()` method sorts the elements of an array _in place_ and returns the sorted array.
 
 ### Syntax

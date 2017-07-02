@@ -1,8 +1,6 @@
 ---
-title: "The Python Objects"
-parent: "python"
+title: the Python Objects
 ---
-
 > In Python, everything is an _object_.
 
 _Objects_ represent a logical grouping of attributes. Attributes are data and/or functions. When an object is created in Python it is created with an _identity_, _type_, and _value_.

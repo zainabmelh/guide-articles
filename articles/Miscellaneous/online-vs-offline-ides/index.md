@@ -1,8 +1,6 @@
 ---
-title: "Online vs Offline IDEs"
-parent: "to-be-sorted"
+title: Online Vs Offline Ides
 ---
-
 ## Offline IDEs
 
 There are several offline <a>**IDE**</a> that programmers use in order to stay more productive to learn and be more productive at work.

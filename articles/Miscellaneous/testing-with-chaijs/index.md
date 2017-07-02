@@ -1,8 +1,6 @@
 ---
-title: "Testing with Chai.js"
-parent: "to-be-sorted"
+title: Testing with Chaijs
 ---
-
 [Chai](http://chaijs.com) is a testing framework. More info:
 
 *   `help chai assert`

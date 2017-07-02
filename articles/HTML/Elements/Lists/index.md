@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Lists
 ---
-
 ### An Intro to this section

@@ -1,8 +1,6 @@
 ---
-title: "Clojure Resources"
-parent: "clojure"
+title: Clojure Resources
 ---
-
 ![Clojure Logo](//discourse-user-assets.s3.amazonaws.com/original/2X/3/3f3afa51f5d2c790faed68bfdd695d9f280e4480.png)
 
 [Clojure](https://clojure.org/) is a dialect of Lisp with a focus on functional programming. It was released in 2007 by Rich Hickey, and has since gained a lot of popularity among web developers.

@@ -1,8 +1,6 @@
 ---
-title: "Java Docs: Basic Operations"
-parent: "java"
+title: Java Docs Basic Operations
 ---
-
 # Java Basic Operations
 
 Java supports the following operations on variables:

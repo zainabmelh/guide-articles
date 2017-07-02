@@ -1,8 +1,6 @@
 ---
-title: "Ruby Introduction"
-parent: "ruby"
+title: Ruby Introduction
 ---
-
 ## What is Ruby?
 
 <a>Ruby</a> is an interpreted scripting language for quick and easy object-oriented programming. Which means:

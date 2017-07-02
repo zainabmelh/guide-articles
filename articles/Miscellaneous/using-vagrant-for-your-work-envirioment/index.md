@@ -1,8 +1,6 @@
 ---
-title: "Using Vagrant for your work envirioment"
-parent: "to-be-sorted"
+title: Using Vagrant for Your Work Envirioment
 ---
-
 The following instruction will help you install the necessary software and also how to set up your first Vagrant and Virtual Box.
 
 ## Installation

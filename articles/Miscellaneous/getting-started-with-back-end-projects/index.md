@@ -1,8 +1,6 @@
 ---
-title: "Getting Started with Back End Projects"
-parent: "to-be-sorted"
+title: Getting Started with Back End Projects
 ---
-
 The curriculum lead-up to the first Back End Project is not very comprehensive. Here are a number of common resources which other campers have found helpful.
 
 *   <a>Introduction to Yeoman</a> - Lots of helpful tips and tricks for the Yeoman Angular Fullstack setup

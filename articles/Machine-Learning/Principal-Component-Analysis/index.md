@@ -1,3 +1,6 @@
+---
+title: Principal Component Analysis
+---
 #### Suggested Reading:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 

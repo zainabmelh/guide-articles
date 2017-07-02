@@ -1,8 +1,6 @@
 ---
-title: "Target the same element with multiple jQuery Selectors"
-parent: "certificates-guide"
+title: Target the Same Element with Multiple Jquery Selectors
 ---
-
 The multiple jQuery selectors are:
 
 1.  By type: `$("button")`

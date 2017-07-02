@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Scrum
 ---
-
 ### An Intro to this section

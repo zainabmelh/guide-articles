@@ -1,8 +1,6 @@
 ---
-title: "Diff Two Arrays"
-parent: "certificates-guide"
+title: Diff Two Arrays
 ---
-
 <div class="lightbox-wrapper">[![](//discourse-user-assets.s3.amazonaws.com/optimized/2X/2/24043ff6eaf64c58ca15936ec29bd7c22809c9de_1_690x379.gif)
 
 <div class="meta"><span class="filename">HkEgef5.gif</span><span class="informations">698x384 72.4 KB</span><span class="expand"></span></div>](//discourse-user-assets.s3.amazonaws.com/original/2X/2/24043ff6eaf64c58ca15936ec29bd7c22809c9de.gif "HkEgef5.gif") </div>

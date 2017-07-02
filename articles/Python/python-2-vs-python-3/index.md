@@ -1,8 +1,6 @@
 ---
-title: "Python 2 vs. Python 3"
-parent: "python"
+title: Python 2 Vs Python 3
 ---
-
 No, we wouldn't be taking a side in the debate. If you are interested in knowing more about it for academic purposes, perhaps [this](https://wiki.python.org/moin/Python2orPython3) would intrigue you.
 
 But; we cannot also be ignorant of the fact that there are two major flavors of Python out there. Why do we care, you ask? Well, because code written adhering to one style; would simply result in syntax error in interpreter of other flavor of Python.

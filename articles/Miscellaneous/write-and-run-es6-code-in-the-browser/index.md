@@ -1,8 +1,6 @@
 ---
-title: "Write and Run ES6 Code in the Browser"
-parent: "to-be-sorted"
+title: Write and Run Es6 Code In the Browser
 ---
-
 > Include the following code in the page.
 
     <!-- Write these first. Here `bootstrap.js` doesn't mean Twitter Bootstrap. -->

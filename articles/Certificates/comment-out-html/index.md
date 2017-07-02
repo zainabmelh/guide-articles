@@ -1,8 +1,6 @@
 ---
-title: "Comment out HTML"
-parent: "certificates-guide"
+title: Comment Out HTML
 ---
-
 Commenting is a way that you can leave comments within your code without affecting the code itself.
 
 It is also a convenient way to make code inactive without having to delete it entirely.

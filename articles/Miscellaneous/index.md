@@ -1,5 +1,4 @@
 ---
-title: "Introduction: Miscellaneous"
+title: Miscellaneous
 ---
-
 ### An Intro to this section

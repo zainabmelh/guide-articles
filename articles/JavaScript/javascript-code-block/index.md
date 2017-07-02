@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Code Block"
-parent: "javascript"
+title: javaScript Code Block
 ---
-
 ## Introduction
 
 In computer programming, a **block** or code **block** is a section of code which is grouped together. Blocks consist of one or more declarations and statements. A programming language that permits the creation of blocks, including blocks nested within other blocks, is called a block-structured programming language. JavaScript is one such programming language.

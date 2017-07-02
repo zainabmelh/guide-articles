@@ -1,8 +1,6 @@
 ---
-title: "Python Defining Functions"
-parent: "python"
+title: Python Defining Functions
 ---
-
 [Python Docs](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
 
 We can create a function that writes the Fibonacci series to an arbitrary boundary:

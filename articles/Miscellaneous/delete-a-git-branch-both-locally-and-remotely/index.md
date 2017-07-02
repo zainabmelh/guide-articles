@@ -1,9 +1,7 @@
 ---
-title: "Delete a Git branch both locally and remotely"
-parent: "to-be-sorted"
+title: Delete A Git Branch Both Locally and Remotely
 ---
-
-    // locally ((if you know what you are doing!)
+// locally ((if you know what you are doing!)
     git branch -d localBranchName
 
     // and then if you need to...

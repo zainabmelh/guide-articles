@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Array.prototype.reverse()"
-parent: "javascript"
+title: javaScript Arrayprototypereverse
 ---
-
 The JavaScript array method `.reverse()` will reverse the order of the elements within the array.
 
 **Syntax**

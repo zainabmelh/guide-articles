@@ -1,8 +1,6 @@
 ---
-title: "JavaScript String.fromCharCode()"
-parent: "javascript"
+title: javaScript Stringfromcharcode
 ---
-
 The static `String.fromCharCode()` method returns a string created by using the specified sequence of Unicode values.
 
 ## Syntax

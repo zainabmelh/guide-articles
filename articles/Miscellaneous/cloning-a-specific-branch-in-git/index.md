@@ -1,8 +1,6 @@
 ---
-title: "Cloning a specific branch in Git"
-parent: "to-be-sorted"
+title: Cloning A Specific Branch In Git
 ---
-
 To clone a branch, enter the following into the terminal:  
 
     git clone -b <branch> <remote_repo>

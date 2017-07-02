@@ -1,8 +1,6 @@
 ---
-title: "Escape Sequences in Strings"
-parent: "certificates-guide"
+title: Escape Sequences In Strings
 ---
-
 Quotes are not the only characters that can be escaped inside a string. Here is a table of common escape sequences:
 
 **Code** | **Output**  

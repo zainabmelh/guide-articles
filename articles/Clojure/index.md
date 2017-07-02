@@ -1,5 +1,4 @@
 ---
-title: "Introduction: Clojure"
+title: Clojure
 ---
-
 ### An Intro to this section

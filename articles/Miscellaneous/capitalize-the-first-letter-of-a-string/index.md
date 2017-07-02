@@ -1,8 +1,6 @@
 ---
-title: "Capitalize the First Letter of a String"
-parent: "to-be-sorted"
+title: Capitalize the First Letter of A String
 ---
-
 To capitalize the first letter of a random string, you should follow these steps:
 
 1.  Get the first letter of the string;

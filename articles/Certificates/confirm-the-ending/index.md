@@ -1,8 +1,6 @@
 ---
-title: "Confirm the Ending"
-parent: "certificates-guide"
+title: Confirm the Ending
 ---
-
 ![](//discourse-user-assets.s3.amazonaws.com/original/2X/a/a081f3fa5316b7d400a5e518bb0620eef64caa08.jpg)
 
 ### ![:checkered_flag:](https://forum.freecodecamp.com/images/emoji/emoji_one/checkered_flag.png?v=3 ":checkered_flag:") Problem Explanation:

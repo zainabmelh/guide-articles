@@ -1,8 +1,6 @@
 ---
-title: "Prioritize One Style Over Another"
-parent: "certificates-guide"
+title: Prioritize One Style Over Another
 ---
-
 Classes to individual elements take priority over general styles.
 
     <style>

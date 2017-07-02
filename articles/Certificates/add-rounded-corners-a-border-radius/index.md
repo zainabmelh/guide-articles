@@ -1,8 +1,6 @@
 ---
-title: "Add Rounded Corners a Border Radius"
-parent: "certificates-guide"
+title: Add Rounded Corners A Border Radius
 ---
-
 To make round corners it is all about `border-radius` and pixels.
 
 You can specify a border-radius with pixels. This will affect how rounded the corners are.

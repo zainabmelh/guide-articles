@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Moodboards
 ---
-
 ### An Intro to this section

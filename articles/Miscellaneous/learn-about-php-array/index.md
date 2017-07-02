@@ -1,8 +1,6 @@
 ---
-title: "Learn about PHP Array"
-parent: "to-be-sorted"
+title: Learn About Php Array
 ---
-
 # PHP Array
 
     Array Can Store multiple values in single Varible. 

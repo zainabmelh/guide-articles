@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Assignment Operators"
-parent: "javascript"
+title: javaScript Assignment Operators
 ---
-
 Assignment operators, as the name suggests, assign (or re-assign) values to a variable. While there are quite a few variations on the assignment operators, they all build off of the basic assignment operator.
 
 ## Syntax

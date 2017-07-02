@@ -1,8 +1,6 @@
 ---
-title: "Learn about Pair Programming"
-parent: "to-be-sorted"
+title: Learn About Pair Programming
 ---
-
 Pair programming is where two people code together on one computer.
 
 ![](//discourse-user-assets.s3.amazonaws.com/original/2X/f/f68cff8b5354f548f9d680369891ece79b8a154f.jpg)

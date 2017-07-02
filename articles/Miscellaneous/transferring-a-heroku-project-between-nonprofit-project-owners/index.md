@@ -1,8 +1,6 @@
 ---
-title: "Transferring a Heroku project between nonprofit project owners"
-parent: "to-be-sorted"
+title: Transferring A Heroku Project Between Nonprofit Project Owners
 ---
-
 ## Heroku:
 
 Once the person who will receive the Heroku app has created a Heroku account, follow the steps located here to transfer it to them: [https://devcenter.heroku.com/articles/transferring-apps](https://devcenter.heroku.com/articles/transferring-apps)

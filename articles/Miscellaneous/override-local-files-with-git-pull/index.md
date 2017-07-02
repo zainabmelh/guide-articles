@@ -1,8 +1,6 @@
 ---
-title: "Override local files with Git Pull"
-parent: "to-be-sorted"
+title: Override Local Files with Git Pull
 ---
-
 # When do you need to overwrite local files?
 
 If you feel the need to discard all your local changes and just reset/overwrite everything with a copy from the remote branch then you should follow this guide.

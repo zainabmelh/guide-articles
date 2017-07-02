@@ -1,8 +1,6 @@
 ---
-title: "Java Infinite Loops"
-parent: "java"
+title: Java Infinite Loops
 ---
-
 # Java Infinite Loops
 
 If you want your loop to go on infinitely, you can use the `while`, `do while` and `for` statement.

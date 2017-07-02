@@ -1,8 +1,6 @@
 ---
-title: "Get information about the current user in AngularJS"
-parent: "to-be-sorted"
+title: Get Information About the Current User In Angularjs
 ---
-
 You may have noticed if you opened up **/client/app/admin/admin.controller.js** that it calls the _Auth_ module like so:
 
     .controller('AdminCtrl', function ($scope, $http, Auth …

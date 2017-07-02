@@ -1,8 +1,6 @@
 ---
-title: "Front End File Structure"
-parent: "to-be-sorted"
+title: Front End File Structure
 ---
-
 First things first: All your user-facing files and angular files are in **/client/app/**
 
 1.  **app.js**: defines your app and includes some basic app-wide functions, you probably don't really need to mess with it unless you're trying to add more dependencies to your app. We're not gonna worry about that right now.

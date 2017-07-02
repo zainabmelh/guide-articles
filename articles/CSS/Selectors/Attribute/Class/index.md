@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Class
 ---
-
 ### An Intro to this section

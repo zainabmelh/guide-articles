@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Mode
 ---
-
 ### An Intro to this section

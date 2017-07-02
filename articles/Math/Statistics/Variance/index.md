@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Variance
 ---
-
 ### An Intro to this section

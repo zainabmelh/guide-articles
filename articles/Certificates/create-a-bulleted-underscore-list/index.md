@@ -1,8 +1,6 @@
 ---
-title: "Create a Bulleted Underscore List"
-parent: "certificates-guide"
+title: Create A Bulleted Underscore List
 ---
-
 HTML has a special element for creating unordered lists, or bullet point-style lists.
 
 Unordered lists start with a `<ul>` element. Then they contain some number of `<li>` elements.

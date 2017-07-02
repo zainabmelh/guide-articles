@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Domain And Codomain
 ---
-
 ### An Intro to this section

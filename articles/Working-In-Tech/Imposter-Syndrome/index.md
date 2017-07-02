@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Imposter Syndrome
 ---
-
 ### An Intro to this section

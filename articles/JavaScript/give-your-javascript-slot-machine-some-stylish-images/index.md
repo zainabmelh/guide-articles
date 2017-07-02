@@ -1,8 +1,6 @@
 ---
-title: "Give your JavaScript Slot Machine some stylish images"
-parent: "javascript"
+title: Give Your javaScript Slot Machine Some Stylish Images
 ---
-
 We've already set up the images for you in an array called images. We can use different indexes to grab each of these.
 
 Here's how we would set the first slot to show a different image depending on which number its random number generates:

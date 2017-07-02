@@ -1,8 +1,6 @@
 ---
-title: "Clojure Create Local variables with Let"
-parent: "clojure"
+title: Clojure Create Local Variables with Let
 ---
-
 `let` is a fundamental part of Clojure. Whereas `def` creates a global variable, `let` creates a local variable.
 
     (def x 5)

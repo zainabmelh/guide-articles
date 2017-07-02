@@ -1,8 +1,6 @@
 ---
-title: "Python any(iterable)"
-parent: "python"
+title: Python Anyiterable
 ---
-
 `any()` is a built-in function in Python 3, to check if any of the items of an [_iterable_](https://docs.python.org/3/glossary.html#term-iterable) is `True`. It takes one argument, `iterable`.
 
 ## Argument

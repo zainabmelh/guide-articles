@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Switch"
-parent: "javascript"
+title: javaScript Switch
 ---
-
 ## Introduction
 
 The **switch** statement evaluates an expression, matching the expression's value to a `case` clause, and executes statements associated with that case.

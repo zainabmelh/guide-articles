@@ -1,8 +1,6 @@
 ---
-title: "Free Code Camp Style guide for Algorithms"
-parent: "general"
+title: Free Code Camp Style Guide for Algorithms
 ---
-
 Writing Algorithm challenges is a great way to exercise your own problem solving and testing abilities. Follow this process closely to maximize the chances of us accepting your Algorithm.
 
 *   Fork the Free Code Camp repository and open `seed_data/Algorithms.json` to become familiar with the format of our Algorithms.

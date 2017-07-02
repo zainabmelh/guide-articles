@@ -1,8 +1,6 @@
 ---
-title: "Bitwise Operators"
-parent: "to-be-sorted"
+title: Bitwise Operators
 ---
-
 `<<` , `>>` , `&`, `|` , `~`, and `^` are the bitwise operators which operate on one or more bit patterns or binary numerals at the level of their individual bits.
 
 ## AND operator

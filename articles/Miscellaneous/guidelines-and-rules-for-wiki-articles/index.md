@@ -1,8 +1,6 @@
 ---
-title: "Guidelines and Rules for Wiki Articles"
-parent: "to-be-sorted"
+title: Guidelines and Rules for Wiki Articles
 ---
-
 Welcome to the wiki section of the forum.
 
 We invite you to use, improve, and create new ones as you see fit. It is a great way to contribute to our community.

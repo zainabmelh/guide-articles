@@ -1,8 +1,6 @@
 ---
-title: "JavaScript For Loops Explained"
-parent: "javascript"
+title: javaScript for Loops Explained
 ---
-
 The for statement creates a loop that consists of three optional expressions, enclosed in parentheses and separated by semicolons, followed by a statement or a set of statements executed in the loop.
 
 The for loop has the following syntax:

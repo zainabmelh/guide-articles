@@ -1,8 +1,6 @@
 ---
-title: "Use an ID Attribute to Style an Element"
-parent: "certificates-guide"
+title: Use An Id Attribute To Style An Element
 ---
-
 One cool thing about `id` attributes is that, like classes, you can style them using CSS.
 
 Here's an example of how you can take your element with the `id` attribute of cat-photo-element and give it the background color of green.

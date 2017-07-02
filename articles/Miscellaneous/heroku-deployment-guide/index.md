@@ -1,8 +1,6 @@
 ---
-title: "Heroku Deployment Guide"
-parent: "to-be-sorted"
+title: Heroku Deployment Guide
 ---
-
 1.  Create a Heroku account.
 
 2.  After making an account, you can go to your [dashboard](https://dashboard.heroku.com/apps)

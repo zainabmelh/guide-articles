@@ -1,8 +1,6 @@
 ---
-title: "Create and Upload and Link Animated GIF Image"
-parent: "to-be-sorted"
+title: Create and Upload and Link Animated Gif Image
 ---
-
 1.  Download [LICEcap](http://www.cockos.com/licecap/) and install.
 2.  Open and start recording to create animated GIF.
 3.  Upload the `.gif` file in [EZGIF.com](http://ezgif.com/optimize).

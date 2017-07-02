@@ -1,8 +1,6 @@
 ---
-title: "Backend File Structures in Angular"
-parent: "to-be-sorted"
+title: Backend File Structures In Angular
 ---
-
 Your app's backend api that interacts with your database is located in **/server/api**  
 Let's take a look at **/server/api/thing**:
 

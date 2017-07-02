@@ -1,8 +1,6 @@
 ---
-title: "Python Input() Function"
-parent: "python"
+title: Python Input Function
 ---
-
 Many a time, in a program we need some input from the user. Taking inputs from the user makes the program feel interactive. In Python 3, to take input from the user we have a function `input()`. Let's see some examples:
 
 1.  When we just want to take the input:

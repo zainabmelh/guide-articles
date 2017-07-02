@@ -1,8 +1,6 @@
 ---
-title: "Clojure Hashmaps"
-parent: "clojure"
+title: Clojure Hashmaps
 ---
-
 A hashmap is a collection that maps keys to values. They have various names in other languages; Python refers to them as dictionaries, and Javascript's objects essentially work like hashmaps.
 
 A hashmap can, like many collections, be constructed in two ways. There is the constructor function:

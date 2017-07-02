@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Functions List"
-parent: "javascript"
+title: javaScript Functions List
 ---
-
 ![Unofficial JS Logo](//discourse-user-assets.s3.amazonaws.com/original/2X/0/0584980f425bfbbe1e14001557ff4f5bab8f61ec.jpg)
 
 JavaScript (JS) is a lightweight, interpreted, programming language with first-class functions. Most well-known as the scripting language for Web pages, many non-browser environments also use it, such as [node.js](https://nodejs.org) and [Apache CouchDB](http://couchdb.apache.org/). JS is a prototype-based, multi-paradigm, dynamic scripting language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.

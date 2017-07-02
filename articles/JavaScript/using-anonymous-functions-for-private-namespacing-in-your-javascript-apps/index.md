@@ -1,8 +1,6 @@
 ---
-title: "Using Anonymous Functions for Private Namespacing in your JavaScript Apps"
-parent: "javascript"
+title: Using Anonymous Functions for Private Namespacing In Your javaScript Apps
 ---
-
 Let's take a look at what a namespace is when it comes to building JavaScript applications and some of the benefits from using a private namespace when building your apps.
 
 **Please note that this article references anonymous self-executing functions. If you're unaware of what this is, please read this excellent article by Noah Stokes: [Self-Executing Anonymous Functions or How to Write Clean Javascript](http://esbueno.noahstokes.com/post/77292606977/self-executing-anonymous-functions-or-how-to-write). This article will go into detail about anonymous self-executing functions.**

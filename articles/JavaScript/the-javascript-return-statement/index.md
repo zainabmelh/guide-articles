@@ -1,8 +1,6 @@
 ---
-title: "The JavaScript Return Statement"
-parent: "javascript"
+title: the javaScript Return Statement
 ---
-
 ## Introduction
 
 When a **return** statement is called in a function, the execution of this function is stopped. If specified, a given value is returned to the function caller. If the expression is omitted, `undefined` is returned instead.

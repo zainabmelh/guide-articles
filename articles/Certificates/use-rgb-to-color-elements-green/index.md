@@ -1,6 +1,4 @@
 ---
-title: "Use RGB to Color Elements Green"
-parent: "certificates-guide"
+title: Use Rgb To Color Elements Green
 ---
-
 The rgb value green: `rgb(0, 255, 0)`

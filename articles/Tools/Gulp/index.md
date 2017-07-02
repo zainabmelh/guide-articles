@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Gulp
 ---
-
 ### An Intro to this section

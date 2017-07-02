@@ -1,8 +1,6 @@
 ---
-title: "Nesting For Loops"
-parent: "certificates-guide"
+title: Nesting for Loops
 ---
-
 If you have a multi-dimensional array, you can use the same logic as the prior Challenge to loop through both the array and any sub-arrays. Here is an example:
 
         var arr = [

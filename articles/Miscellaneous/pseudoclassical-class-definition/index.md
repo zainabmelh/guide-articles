@@ -1,8 +1,6 @@
 ---
-title: "Pseudoclassical Class Definition"
-parent: "to-be-sorted"
+title: Pseudoclassical Class Definition
 ---
-
 Pseudoclassical class definition happens in 2 code blocks instead of one, which happens in other languages like Python and PHP.
 
 The first block is called the "Constructor Function" which is where attributes of the class is declared. These are the aspects of the class that are unique to each new instance. Example with cars is that brand, color, and location can differ. In the second block of code you declare the methods that will be shared by each instance of the class. Examples are things the car can do, drive forward, stop, open door.

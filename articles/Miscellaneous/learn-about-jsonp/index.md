@@ -1,8 +1,6 @@
 ---
-title: "Learn about JSONP"
-parent: "to-be-sorted"
+title: Learn About Jsonp
 ---
-
 *   [Wikipidea/JSONP](https://en.wikipedia.org/wiki/JSONP)
 *   [JSONP and JQuery](https://learn.jquery.com/ajax/working-with-jsonp)
 *   [More JSONP with JQuery](http://api.jquery.com/jquery.getjson/#jsonp)

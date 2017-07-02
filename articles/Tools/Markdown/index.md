@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Markdown
 ---
-
 ### An Intro to this section

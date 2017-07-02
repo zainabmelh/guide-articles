@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Input
 ---
-
 ### An Intro to this section

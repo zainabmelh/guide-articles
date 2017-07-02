@@ -1,8 +1,6 @@
 ---
-title: "Python Calling Functions"
-parent: "python"
+title: Python Calling Functions
 ---
-
 A function definition statement does not execute the function. Executing (calling) a function is done by using the name of the function followed by parenthesis enclosing required arguments (if any).
 
     >>> def say_hello():

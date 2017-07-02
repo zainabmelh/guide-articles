@@ -1,8 +1,6 @@
 ---
-title: "Python Numeric Operations"
-parent: "python"
+title: Python Numeric Operations
 ---
-
 [Python Docs - Numeric Operations](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex)
 
 Python fully supports mixed arithmetic: when a binary arithmetic operator has operands of different numeric types, the operand with the "narrower" type is widened to that of the other, where integer is narrower than floating point, which is narrower than complex. Comparisons between numbers of mixed type use the same rule. [2] The constructors int(), float(), and complex() can be used to produce numbers of a specific type.

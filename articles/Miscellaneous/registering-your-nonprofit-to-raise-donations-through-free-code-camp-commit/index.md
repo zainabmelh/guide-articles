@@ -1,8 +1,6 @@
 ---
-title: "Registering your Nonprofit to Raise Donations through Free Code Camp Commit"
-parent: "to-be-sorted"
+title: Registering Your Nonprofit To Raise Donations Through Free Code Camp Commit
 ---
-
 Our commit program will feature a single nonprofit by default, and give campers the option of browsing through a list of other nonprofits they can pledge toward if they want.
 
 If you'd like to be added to our list of nonprofits that our campers can commit to, please email us at team@freecodecamp.com with the following information:

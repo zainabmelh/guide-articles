@@ -1,8 +1,6 @@
 ---
-title: "Reto de Algoritmo ¡Bu!"
-parent: "to-be-sorted"
+title: Reto De Algoritmo Bu
 ---
-
 ![](//discourse-user-assets.s3.amazonaws.com/original/2X/3/3c8584a085a0deaea66b3400e6321eeadab552a2.jpg)
 
 ### Explicación del problema:

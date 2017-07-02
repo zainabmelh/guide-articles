@@ -1,8 +1,6 @@
 ---
-title: "freeCodeCamp Moderator Guidelines"
-parent: "to-be-sorted"
+title: Freecodecamp Moderator Guidelines
 ---
-
 # The Pillars of Moderation
 
 Above all else, remember that your purpose as a moderator is to serve our community:

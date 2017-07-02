@@ -1,8 +1,6 @@
 ---
-title: "Introducing JavaScript Object Notation JSON"
-parent: "javascript"
+title: Introducing javaScript Object Notation Json
 ---
-
 JavaScript Object Notation or `JSON` uses the format of JavaScript Objects to store data. JSON is flexible because it allows for `Data Structures` with arbitrary combinations of `strings`, `numbers`, `booleans`, `arrays`, and `objects`.
 
 Here is an example of a JSON object:

@@ -1,8 +1,6 @@
 ---
-title: "Modify Array Data With Indexes"
-parent: "certificates-guide"
+title: Modify Array Data with Indexes
 ---
-
 We can also modify the data stored in arrays by using indexes.
 
 For example:

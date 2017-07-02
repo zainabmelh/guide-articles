@@ -1,8 +1,6 @@
 ---
-title: "Ruby String Operations"
-parent: "ruby"
+title: Ruby String Operations
 ---
-
 Both concatenation and multiplication can be performed on strings.
 
 ## Concatenation:

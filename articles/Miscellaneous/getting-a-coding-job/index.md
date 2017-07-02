@@ -1,8 +1,6 @@
 ---
-title: "Getting a Coding Job"
-parent: "to-be-sorted"
+title: Getting A Coding Job
 ---
-
 Free Code Camp will help you prepare for a coding job.
 
 <div class="lightbox-wrapper">[![](https://www.evernote.com/shard/s116/sh/55c128c7-5d99-41cc-b03d-b3de22611c8d/b43e467b3889f646fec34bb4c161e2a2/deep/0/What's-wrong-with-this-picture----Code.org.png)

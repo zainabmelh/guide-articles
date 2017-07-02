@@ -1,8 +1,6 @@
 ---
-title: "Manipulate JavaScript Objects"
-parent: "javascript"
+title: Manipulate javaScript Objects
 ---
-
 We can add properties to objects like this:
 
     myObject.myProperty = "myValue";

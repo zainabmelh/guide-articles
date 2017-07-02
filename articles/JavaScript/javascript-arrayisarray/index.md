@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Array.isArray"
-parent: "javascript"
+title: javaScript Arrayisarray
 ---
-
 The `Array.isArray()` method returns `true` if an object is an array, `false` if it is not.
 
 ## Syntax

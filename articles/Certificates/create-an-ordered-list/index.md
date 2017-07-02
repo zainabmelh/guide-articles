@@ -1,8 +1,6 @@
 ---
-title: "Create an Ordered list"
-parent: "certificates-guide"
+title: Create An Ordered List
 ---
-
 HTML has a special element for creating ordered lists, or numbered-style lists.
 
 Ordered lists start with a `<ol>` element. Then they contain some number of `<li>` elements.

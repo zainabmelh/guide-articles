@@ -1,8 +1,6 @@
 ---
-title: "How to Run Apache Server on a Mac OS X E1 Captain"
-parent: "how-to"
+title: How To Run Apache Server On A Mac Os X E1 Captain
 ---
-
 [Apache](http://www.apache.org/) server is pre build on Mac OS X , no need to install 3rd party tools WAMP, LAMP, MAMP AND XAMPP to run Apache server on Mac.
 
 When you consider run [Apache](http://www.apache.org/) server on Mac OS X E1 Captain / OS X Yosemite, it is rather different from it's earlier versions. Here you should it from terminal windows, earlier GUI options for tick as webserver from system control window is took off.

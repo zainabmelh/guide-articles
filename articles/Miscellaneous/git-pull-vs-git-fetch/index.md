@@ -1,8 +1,6 @@
 ---
-title: "Git Pull vs Git Fetch"
-parent: "to-be-sorted"
+title: Git Pull Vs Git Fetch
 ---
-
 These two commands are regularly used by git users. Let's see the difference between both commands.
 
 For the sake of context, it's worth remembering we're probably working in a clone repo. What's a clone? simply a duplicate of another repository. It is basically getting your own copy of someone else's source code.

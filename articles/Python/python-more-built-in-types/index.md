@@ -1,8 +1,6 @@
 ---
-title: "Python More Built-in Types"
-parent: "python"
+title: Python More Built In Types
 ---
-
 The following sections describe the standard types that are built into the interpreter.
 
 The principal built-in types are numerics, sequences, mappings, classes, instances and exceptions.

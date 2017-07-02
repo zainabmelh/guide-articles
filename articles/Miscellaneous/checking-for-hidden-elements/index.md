@@ -1,8 +1,6 @@
 ---
-title: "Checking for Hidden Elements"
-parent: "to-be-sorted"
+title: Checking for Hidden Elements
 ---
-
 There are times where you might need to check if an element is visible or hidden on the screen so that you can perform some action on it given its state. I was looking around at some solutions on Stack Overflow for trying to ascertain whether an element was visible, and I wasn't satisfied by the answers I received.
 
 One answer was to use the jQuery library, and then check to see if the element has the pseudoclass of `:visible` by using this format: `$(element).is(':visible')`. This works for elements that are hidden by using `display: none;` on them, but it does not work on any element that has its `visibility` set to `hidden`. It also does not work if the parent element is the only element that is hidden from view. If any parent element of the element tested is hidden, using either `visibility` or `display`, the element being tested will come back as visible, despite it not being visible on the screen.

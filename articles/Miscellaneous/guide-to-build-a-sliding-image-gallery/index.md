@@ -1,8 +1,6 @@
 ---
-title: "Guide to Build a Sliding Image Gallery"
-parent: "to-be-sorted"
+title: Guide To Build A Sliding Image Gallery
 ---
-
 This tutorial will walk you through building an image slider using the [jQuery](https://jquery.com/) library.
 
 [![GIF showing Slider in action](//discourse-user-assets.s3.amazonaws.com/original/2X/0/08d83a22c28da836a06853b1f1ea669b398326b9.gif)](https://codepen.io/atjonathan/pen/BKMxxq)

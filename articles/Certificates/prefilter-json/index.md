@@ -1,8 +1,6 @@
 ---
-title: "Prefilter JSON"
-parent: "certificates-guide"
+title: Prefilter Json
 ---
-
 The **filter()** method creates a new array with all elements that pass the test implemented by the provided function.
 
 So when you don't want to work with all the elements from the array then you can use filter.

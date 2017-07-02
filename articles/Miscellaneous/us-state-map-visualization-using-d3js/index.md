@@ -1,8 +1,6 @@
 ---
-title: "US State Map Visualization using D3.js"
-parent: "to-be-sorted"
+title: Us State Map Visualization Using D3js
 ---
-
 <div class="lightbox-wrapper">[![screen shot 2016-05-19 at 6 29 43 pm](//discourse-user-assets.s3.amazonaws.com/optimized/2X/a/a4a31935c10185c660c713ba7651a30e0a11f1e8_1_690x461.png)
 
 <div class="meta"><span class="filename">fa585e4c-1df7-11e6-832e-66d00f4354e1.png</span><span class="informations">944x632 96 KB</span><span class="expand"></span></div>](//discourse-user-assets.s3.amazonaws.com/original/2X/a/a4a31935c10185c660c713ba7651a30e0a11f1e8.png "fa585e4c-1df7-11e6-832e-66d00f4354e1.png") </div>

@@ -22,7 +22,7 @@ If you prefer to write locally and submit a pull request (PR), then you can foll
 - Copy it to your local machine by running the command `git clone https://github.com/<your-username>/guide-articles.git`
 - Add a remote upstream so git knows where the official freeCodeCamp guide-articles repository is located with `git remote add upstream https://github.com/freeCodeCamp/guide-articles.git`
 - Create a new branch for your work with the command `git checkout -b <new-branch-name>`. Try to name your branch in a way that describes your article topic, like `fix/ArticleHTMLElements`
-- Write your article, commit your changes locally, and push your new branch to GitHub with the command `git push origin <new-branch-name>`
+- Write your article, run `npm run meta`, commit your changes locally, and push your new branch to GitHub with the command `git push origin <new-branch-name>`
 - Go to your repository on GitHub and open a PR
 
 Make sure to maintain your local fork going forward so it stays up-to-date with the freeCodeCamp guide-articles repository. The next time you want to contribute, checkout your local `master` branch and run the command `git pull --rebase upstream master` before creating a new branch. This will grab all the changes on the official `master` branch without making an additional commit in your local repository.

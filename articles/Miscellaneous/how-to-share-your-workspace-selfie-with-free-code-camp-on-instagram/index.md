@@ -1,8 +1,6 @@
 ---
-title: "How to Share your workspace selfie with Free Code Camp on Instagram"
-parent: "how-to"
+title: How To Share Your Workspace Selfie with Free Code Camp On Instagram
 ---
-
 FreeCodecamp is on instagram! Here is how to take a workspace selfie and share it with us.
 
 ## Take a selfie of you at your workspace with Free Code Camp open.

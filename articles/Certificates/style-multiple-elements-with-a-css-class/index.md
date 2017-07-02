@@ -1,8 +1,6 @@
 ---
-title: "Style Multiple Elements with a CSS Class"
-parent: "certificates-guide"
+title: Style Multiple Elements with A CSS Class
 ---
-
 You can attach classes to HTML elements by using `class="your-class-here"` within the relevant element's opening tag.
 
 CSS selectors require a period at the beginning like this: `.blue-text { color: blue; }`, but that class declaration in the HTML doesn't use a period, like this: `<h2 class="blue-text">CatPhotoApp<h2>`.

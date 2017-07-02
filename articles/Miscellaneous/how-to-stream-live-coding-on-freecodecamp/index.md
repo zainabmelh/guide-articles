@@ -1,8 +1,6 @@
 ---
-title: "How to Stream Live Coding on FreeCodeCamp"
-parent: "how-to"
+title: How To Stream Live Coding On Freecodecamp
 ---
-
 Live streaming your code is an educational and invigorating experience for the streamer and the audience. If you've never seen live coding, check out our [Twitch channel](http://twitch.tv/freecodecamp). We are actively looking for more streamers of all levels to code on the FreeCodeCamp channel.
 
 **We are currently moving away from using Twitch, we will update this page once details have been finalized.**

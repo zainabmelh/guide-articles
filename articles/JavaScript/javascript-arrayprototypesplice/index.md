@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Array.prototype.splice()"
-parent: "javascript"
+title: javaScript Arrayprototypesplice
 ---
-
 This method changes array's content by removing existing elements and/or adding new elements.
 
 ## Syntax

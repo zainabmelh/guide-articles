@@ -1,8 +1,6 @@
 ---
-title: "Storing Mongo username / password persistently using dotenv"
-parent: "to-be-sorted"
+title: Storing Mongo Username  Password Persistently Using Dotenv
 ---
-
 ## Storing Secure information for applications with dotenv
 
 This article is about saving username and password credentials information for secure database access on 3rd party sites such as mLab in your local testing environment in order to protect them from anyone looking at your public repository on a site like github.

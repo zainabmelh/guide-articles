@@ -1,8 +1,6 @@
 ---
-title: "Declare JavaScript Objects as Variables"
-parent: "javascript"
+title: Declare javaScript Objects As Variables
 ---
-
 This has a simple format. You declare your variable and have it equal to an object in the form `{ key: value}`
 
     var car = {

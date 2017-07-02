@@ -1,8 +1,6 @@
 ---
-title: "Override Class Declaration by Styling ID Attributes"
-parent: "certificates-guide"
+title: Override Class Declaration By Styling Id Attributes
 ---
-
 We can use `id` to override styling too. `id` should have a higher priority than `class`, so its rules apply if a conflict occurs.
 
     <style>

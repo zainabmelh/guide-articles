@@ -1,8 +1,6 @@
 ---
-title: "Arranging operations alphabetically in Swashbuckle Swagger"
-parent: "to-be-sorted"
+title: Arranging Operations Alphabetically In Swashbuckle Swagger
 ---
-
 [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) seamlessly adds a [Swagger](http://swagger.io/) to WebAPI projects. However, the operations on the page do not appear in alphabetical order.
 
 Although the operations will not appear in alphabetical order, Swashbuckle allows custom filters and with a little coding, the order can be shown in alphabetical order.

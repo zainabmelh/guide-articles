@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Alignment
 ---
-
 ### An Intro to this section

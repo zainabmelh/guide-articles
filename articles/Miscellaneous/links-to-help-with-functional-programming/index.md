@@ -1,8 +1,6 @@
 ---
-title: "Links to help with functional programming!"
-parent: "to-be-sorted"
+title: Links To Help with Functional Programming
 ---
-
 Here you will fine links to learn more about functional programming.
 
 ## Workshops

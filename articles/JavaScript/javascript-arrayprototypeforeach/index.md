@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Array.prototype.forEach()"
-parent: "javascript"
+title: javaScript Arrayprototypeforeach
 ---
-
 The `forEach()` method executes a provided function once per array element.
 
 **Syntax**

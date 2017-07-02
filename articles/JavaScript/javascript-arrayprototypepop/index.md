@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Array.prototype.pop()"
-parent: "javascript"
+title: javaScript Arrayprototypepop
 ---
-
 The JavaScript array method `.pop()` will remove the last element from an array and returns that element.
 
 **Syntax**

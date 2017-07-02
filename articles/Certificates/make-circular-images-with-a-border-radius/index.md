@@ -1,8 +1,6 @@
 ---
-title: "Make Circular Images with a Border Radius"
-parent: "certificates-guide"
+title: Make Circular Images with A Border Radius
 ---
-
 You can also use percentage to `border-radius` to make things round.
 
     .thick-green-border {

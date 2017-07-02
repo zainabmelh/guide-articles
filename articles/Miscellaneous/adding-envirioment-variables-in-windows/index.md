@@ -1,8 +1,6 @@
 ---
-title: "Adding Envirioment Variables in Windows"
-parent: "to-be-sorted"
+title: Adding Envirioment Variables In Windows
 ---
-
 ### Via GUI
 
 1.  Download [Varpanel](http://implbits.com/products/varpanel/).

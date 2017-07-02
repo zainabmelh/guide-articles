@@ -1,8 +1,6 @@
 ---
-title: "The Agile Manifesto"
-parent: "to-be-sorted"
+title: the Agile Manifesto
 ---
-
 ### For Agile Software Development
 
 Agile development was written in 2001 by a group of 17 software experts that included the creators of Scrum Extreme Programming (XP), Dynamic Systems Development Method (DSDM), and Crystal; a representative of feature-driven development; and several other thought leaders in the software industry. The Agile Manifesto established a common set of overarching values and principles for all of the individual agile methodologies at the time. This is that manifesto.

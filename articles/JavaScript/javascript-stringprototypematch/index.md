@@ -1,8 +1,6 @@
 ---
-title: "JavaScript String.prototype.match()"
-parent: "javascript"
+title: javaScript Stringprototypematch
 ---
-
 The `match()` method retrieves the matches when matching a string against a regular expression.
 
 ## Syntax

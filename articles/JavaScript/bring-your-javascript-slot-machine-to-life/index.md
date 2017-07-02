@@ -1,8 +1,6 @@
 ---
-title: "Bring your JavaScript Slot Machine to Life"
-parent: "javascript"
+title: Bring Your javaScript Slot Machine To Life
 ---
-
 Let's use the jQuery selector `$(".slot")` to select all of the slots.
 
 Once they are all selected, we can use bracket notation to access each individual slot:

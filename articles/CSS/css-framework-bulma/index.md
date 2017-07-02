@@ -1,8 +1,6 @@
 ---
-title: "CSS Framework Bulma"
-parent: "css"
+title: CSS Framework Bulma
 ---
-
 # CSS Framework Bulma
 
 Bulma is a modern CSS framework based on [Flexbox](http://forum.freecodecamp.com/t/css-flexbox-tips-and-tricks) and highly customizable using [Sass](http://sass-lang.com/) (SCSS).

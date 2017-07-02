@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Section
 ---
-
 ### An Intro to this section

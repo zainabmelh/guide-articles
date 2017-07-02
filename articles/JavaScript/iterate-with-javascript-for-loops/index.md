@@ -1,8 +1,6 @@
 ---
-title: "Iterate with JavaScript For Loops"
-parent: "javascript"
+title: Iterate with javaScript for Loops
 ---
-
 The most common type of JavaScript loop is called a `for loop` because it runs `for` a specific number of times.
 
     var ourArray = [];

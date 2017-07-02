@@ -1,8 +1,6 @@
 ---
-title: "Accessing the database from your Front End"
-parent: "to-be-sorted"
+title: Accessing the Database From Your Front End
 ---
-
 You must have noticed in **main.controller.js** how _things_ were retrieved from the database and displayed:
 
     $http.get('/api/things').success(function(awesomeThings){  

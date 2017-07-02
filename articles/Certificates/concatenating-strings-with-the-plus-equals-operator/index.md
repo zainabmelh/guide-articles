@@ -1,8 +1,6 @@
 ---
-title: "Concatenating Strings with the Plus Equals Operator"
-parent: "certificates-guide"
+title: Concatenating Strings with the Plus Equals Operator
 ---
-
 We can use the `+=` operator to concatenate a string onto the end of an existing string variable. This can be very helpful to break a long string over several lines.
 
 ## Note

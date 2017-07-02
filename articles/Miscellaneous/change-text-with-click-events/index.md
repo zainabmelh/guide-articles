@@ -1,8 +1,6 @@
 ---
-title: "Change Text with Click Events"
-parent: "to-be-sorted"
+title: Change Text with Click Events
 ---
-
 When a click event happens, we can use Ajax to update an HTML element with the following code:
 
     $(".message").html("Here is the message");

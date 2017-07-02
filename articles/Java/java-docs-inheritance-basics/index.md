@@ -1,8 +1,6 @@
 ---
-title: "Java Docs: Inheritance Basics"
-parent: "java"
+title: Java Docs Inheritance Basics
 ---
-
 # Java Inheritance Basics
 
 So great you have successfully created a Car class. But, wait, aren't Tesla cars supposed to be electric variants? I want an Electric car class, but it also should have the properties of the original `Car` class.

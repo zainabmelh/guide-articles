@@ -1,8 +1,6 @@
 ---
-title: "Java Docs: Variables"
-parent: "java"
+title: Java Docs Variables
 ---
-
 # Java Variables
 
 Variables store values.

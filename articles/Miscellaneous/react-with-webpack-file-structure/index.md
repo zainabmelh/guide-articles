@@ -1,8 +1,6 @@
 ---
-title: "React with Webpack File Structure"
-parent: "to-be-sorted"
+title: React with Webpack File Structure
 ---
-
 Now it's time to set up our file structure before we write any code.
 
 Firstly, let's create a new file called `.gitignore`:

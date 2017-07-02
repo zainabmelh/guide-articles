@@ -1,8 +1,6 @@
 ---
-title: "Target the Children of an Element Using jQuery"
-parent: "certificates-guide"
+title: Target the Children of An Element Using Jquery
 ---
-
 Many HTML elements have children elements from which they inherit properties.
 
 jQuery has a function called `children()` that allows you to access the children of whichever element you've selected.

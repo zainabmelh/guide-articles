@@ -1,6 +1,4 @@
 ---
-title: "JavaScript Higher order Functions"
-parent: "javascript"
+title: javaScript Higher Order Functions
 ---
-
 Functions that are higher!

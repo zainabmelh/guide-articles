@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Combinations
 ---
-
 ### An Intro to this section

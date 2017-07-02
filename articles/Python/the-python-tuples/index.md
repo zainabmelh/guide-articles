@@ -1,8 +1,6 @@
 ---
-title: "The Python Tuples"
-parent: "python"
+title: the Python Tuples
 ---
-
 **TODO: `Tuple` basic info**
 
 [Python Docs - Tuples](https://docs.python.org/3/library/stdtypes.html#tuples)

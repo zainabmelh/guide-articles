@@ -1,8 +1,6 @@
 ---
-title: "Java Loops: for"
-parent: "java"
+title: Java Loops for
 ---
-
 # Java for Loop
 
 There are 2 of these:

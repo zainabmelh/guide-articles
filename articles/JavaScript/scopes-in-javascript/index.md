@@ -1,8 +1,6 @@
 ---
-title: "Scopes in JavaScript"
-parent: "javascript"
+title: Scopes In javaScript
 ---
-
 If you've been programming in JavaScript for a while, you've undoubtedly run into a concept known as `scope`. What is `scope`? Why should you take the time to learn it?
 
 In programmer speak, `scope` is the **current context of execution**. Confused? Let's take a look at the following piece of code:

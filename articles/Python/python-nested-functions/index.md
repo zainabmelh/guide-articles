@@ -1,9 +1,7 @@
 ---
-title: "Python Nested functions"
-parent: "python"
+title: Python Nested Functions
 ---
-
-    >>> def outside_fn():
+>>> def outside_fn():
     ...     def inside_fn():
     ...         print('inside')
     ...     print('outside')

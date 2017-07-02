@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Meta Scrum
 ---
-
 ### An Intro to this section

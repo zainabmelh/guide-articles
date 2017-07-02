@@ -1,8 +1,6 @@
 ---
-title: "Python Integers"
-parent: "python"
+title: Python Integers
 ---
-
 The theoretical domain for integers in python is negative infinity to infinity. In practice, integer values are limited by the amount of available memory.
 
 In Python 2, there was a distinction between **`int`**, numbers that fit in a 32 or 64 bit _C long_, and **`long`**, numbers limited by available memory. Python 3 unified the two types into just **`int`**, more info in [PEP 237](https://www.python.org/dev/peps/pep-0237/).

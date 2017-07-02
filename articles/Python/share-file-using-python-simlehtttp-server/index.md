@@ -1,8 +1,6 @@
 ---
-title: "Share file using python simleHTTTP server"
-parent: "python"
+title: Share File Using Python Simlehtttp Server
 ---
-
 ## The steps need to follow for sending the file.
 
 1.  Make sure both the computers connected through same network via LAN or WIFI.

@@ -1,8 +1,6 @@
 ---
-title: "How to Report a Bug"
-parent: "how-to"
+title: How To Report A Bug
 ---
-
 Thank you for taking the effort to report an issue with freeCodeCamp.
 
 If you think you've found a bug on freeCodeCamp, please follow these steps to resolve your problem:

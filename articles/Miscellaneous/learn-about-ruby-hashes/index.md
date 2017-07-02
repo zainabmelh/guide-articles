@@ -1,8 +1,6 @@
 ---
-title: "Learn About Ruby Hashes"
-parent: "to-be-sorted"
+title: Learn About Ruby Hashes
 ---
-
 ### Basics:
 
 *   Ruby hashes are comparable to Javascript objects or dictionaries in languages like Python.

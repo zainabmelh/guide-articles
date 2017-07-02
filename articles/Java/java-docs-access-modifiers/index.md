@@ -1,8 +1,6 @@
 ---
-title: "Java Docs: Access Modifiers"
-parent: "java"
+title: Java Docs Access Modifiers
 ---
-
 # Java Access Modifiers
 
 Ok, so if `modelS` has all the same properties, I should be able to access `name` or `manufacturerName` right?

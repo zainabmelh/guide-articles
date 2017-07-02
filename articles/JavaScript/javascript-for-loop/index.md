@@ -1,8 +1,6 @@
 ---
-title: "JavaScript For Loop"
-parent: "javascript"
+title: javaScript for Loop
 ---
-
 ### Syntax
 
 > for ([initialization]; [condition]; [final-expression]) statement

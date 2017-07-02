@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: RAM
 ---
-
 ### An Intro to this section

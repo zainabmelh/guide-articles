@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Chickens Versus Pigs
 ---
-
 ### An Intro to this section

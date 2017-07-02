@@ -1,3 +1,6 @@
+---
+title: Background Image
+---
 #### Suggested Reading:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 https://developer.mozilla.org/en-US/docs/Web/CSS/background-image

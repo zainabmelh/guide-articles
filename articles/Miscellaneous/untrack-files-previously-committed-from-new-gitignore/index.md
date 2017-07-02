@@ -1,8 +1,6 @@
 ---
-title: "Untrack files previously committed from new .gitignore"
-parent: "to-be-sorted"
+title: Untrack Files Previously Committed From New Gitignore
 ---
-
 To untrack a _single_ file, ie stop tracking the file but not delete it from the system use:
 
 `git rm --cached filename`

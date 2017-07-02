@@ -1,8 +1,6 @@
 ---
-title: "Getting Started with SASS"
-parent: "to-be-sorted"
+title: Getting Started with Sass
 ---
-
 ### Introduction
 
 Sass stands for "Syntactically Awesome Stylesheets" and is a CSS Pre-Processor. A Pre-Processor compiles code written in a specific language down to "product" code that is machine-readable (browser-readable). Basically, Sass compiles code down to regular CSS that our browsers can interpret! _Why write code in Sass when CSS already exists?_ The short answer is Sass comes with more powerful features built into its syntax that allow developers to write DRY-er, scalable, and more maintainable front-end code.

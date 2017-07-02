@@ -1,8 +1,6 @@
 ---
-title: "Creating a New Github Issue"
-parent: "to-be-sorted"
+title: Creating A New Github Issue
 ---
-
 Before submitting an issue try [Searching for Your Issue on Github](http://forum.freecodecamp.com/t/searching-for-existing-issues-in-github/18390)
 
 Crafting a good issue will make it much easier for the dev team to replicate and resolve your problem. Follow these steps to do it right:

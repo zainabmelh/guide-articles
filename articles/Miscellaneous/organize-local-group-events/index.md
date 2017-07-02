@@ -1,8 +1,6 @@
 ---
-title: "Organize Local group events"
-parent: "to-be-sorted"
+title: Organize Local Group Events
 ---
-
 In-person group programming sessions and events are fun!
 
 ## This Wiki will help you with organizing a successful Local Group event.

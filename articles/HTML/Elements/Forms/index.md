@@ -1,3 +1,6 @@
+---
+title: Forms
+---
 #### Suggested Reading:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 See the [Webaim site](http://webaim.org/techniques/forms/) for accessible form examples

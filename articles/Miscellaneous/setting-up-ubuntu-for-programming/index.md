@@ -1,8 +1,6 @@
 ---
-title: "Setting up Ubuntu for Programming"
-parent: "to-be-sorted"
+title: Setting up Ubuntu for Programming
 ---
-
 > Note: We will be referring to Ubuntu 16.04 LTS (Xenial Xerus) in these articles.
 
 [1\. Download and Install Ubuntu Desktop](http://forum.freecodecamp.com/t/download-and-install-ubuntu-desktop/18383)

@@ -1,8 +1,6 @@
 ---
-title: "How to Create A Local Study Group"
-parent: "how-to"
+title: How To Create A Local Study Group
 ---
-
 If you didn't see your city on [our list of study groups](https://www.freecodecamp.com/study-group-directory/), and you are willing to lead a study group for your city, follow the directions below.
 
 This also applies to creating smaller, more cohesive groups for neighbourhoods and districts inside of the same city. Thus, groups should ideally represent areas where its members don't have to commute longer than 15-20 minutes to meet each other.  

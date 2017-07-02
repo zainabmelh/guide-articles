@@ -1,8 +1,6 @@
 ---
-title: "Falsy Bouncer"
-parent: "certificates-guide"
+title: Falsy Bouncer
 ---
-
 <div class="lightbox-wrapper">[![](//discourse-user-assets.s3.amazonaws.com/optimized/2X/5/55dedad40d9f3f662c70d1eac4effc00c7d26bd9_1_485x500.jpg)
 
 <div class="meta"><span class="filename">GluUbAz.jpg</span><span class="informations">497x512 53.5 KB</span><span class="expand"></span></div>](//discourse-user-assets.s3.amazonaws.com/original/2X/5/55dedad40d9f3f662c70d1eac4effc00c7d26bd9.jpg "GluUbAz.jpg") </div>

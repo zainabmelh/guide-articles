@@ -1,8 +1,6 @@
 ---
-title: "Create a Set of Checkboxes"
-parent: "certificates-guide"
+title: Create A Set of Checkboxes
 ---
-
 Checkboxes are a type of input.
 
 *   Each of your checkboxes should be nested within its own label element.

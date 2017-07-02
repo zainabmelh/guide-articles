@@ -1,8 +1,6 @@
 ---
-title: "How JSONP is different from JSON"
-parent: "to-be-sorted"
+title: How Jsonp Is Different From Json
 ---
-
 JSONP is just JSON wrapped in a callback function.
 
 JSONP is useful for making cross domain requests, which are often otherwise forbidden by browsers for security reasons.

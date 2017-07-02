@@ -1,8 +1,6 @@
 ---
-title: "Add your JavaScript Slot Machine Slots"
-parent: "javascript"
+title: Add Your javaScript Slot Machine Slots
 ---
-
 For this part we should notify if they same number is returned three times or return `null` otherwise.
 
     if(slotOne !== slotTwo || slotTwo !== slotThree){

@@ -1,8 +1,6 @@
 ---
-title: "CSS Selectors Cheat Sheet"
-parent: "css"
+title: CSS Selectors Cheat Sheet
 ---
-
 # CSS Selectors
 
 In CSS, selectors are patterns used to select DOM elements.

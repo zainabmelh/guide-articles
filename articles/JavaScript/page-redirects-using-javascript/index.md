@@ -1,8 +1,6 @@
 ---
-title: "Page Redirects Using JavaScript"
-parent: "javascript"
+title: Page Redirects Using javaScript
 ---
-
 If you're trying to redirect a user to another page, you can easily use JavaScript to accomplish this task. It is important to note the following:
 
 Even if you have the jQuery library loaded in your scripts, you should still use the pure JavaScript solution for page redirects for efficiency purposes. The jQuery workarounds are clunky at best and are absolutely not necessary.

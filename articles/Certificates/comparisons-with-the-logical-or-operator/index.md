@@ -1,8 +1,6 @@
 ---
-title: "Comparisons with the Logical Or Operator"
-parent: "certificates-guide"
+title: Comparisons with the Logical Or Operator
 ---
-
 The `logical or` operator (`||`) returns `true` if either of the `operands` is `true`. Otherwise, it returns `false`.
 
 The pattern below should look familiar from prior Challenges:

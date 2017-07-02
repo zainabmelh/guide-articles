@@ -1,8 +1,6 @@
 ---
-title: "How to Use the TwitchTV API"
-parent: "certificates-guide"
+title: How To Use the Twitchtv Api
 ---
-
 Update September 29, 2016: Twitch has changed their API and now requires an API key in order to run queries. If you are using CodePen or GitHub pages to build these, we do not recommend adding an API key to your project for security reasons.
 
 Instead of using Twitch's API, we recommend hard-coding [this JSON](https://gist.github.com/QuincyLarson/2ff6892f948d0b7118a99264fd9c1ce8) into your app as a variable. It is a series of responses for different accounts from Twitch.

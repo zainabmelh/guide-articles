@@ -1,8 +1,6 @@
 ---
-title: "CSS Framework Materialize"
-parent: "css"
+title: CSS Framework Materialize
 ---
-
 # CSS Framework Materialize
 
 Materialize is a Responsive CSS framework based on Google's [Material Design](https://design.google.com/spec/) Language.

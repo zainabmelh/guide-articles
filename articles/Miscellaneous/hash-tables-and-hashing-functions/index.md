@@ -1,8 +1,6 @@
 ---
-title: "Hash Tables and Hashing Functions"
-parent: "to-be-sorted"
+title: Hash Tables and Hashing Functions
 ---
-
 ### Introduction to hashing
 
 Hashing is designed to solve the problem of needing to efficiently find or store an item in a collection.  

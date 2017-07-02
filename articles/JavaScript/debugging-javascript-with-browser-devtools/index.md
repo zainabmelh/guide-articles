@@ -1,8 +1,6 @@
 ---
-title: "Debugging JavaScript with Browser DevTools"
-parent: "javascript"
+title: Debugging javaScript with Browser Devtools
 ---
-
 As a developer you will often want to debug code. You might have already used `console.log` in some of the challenges, which is the simplest way to debug.
 
 In this article we will tell you some of the coolest tricks, to debug using the native debug-tools of the browsers.

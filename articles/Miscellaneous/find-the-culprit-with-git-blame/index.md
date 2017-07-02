@@ -1,8 +1,6 @@
 ---
-title: "Find the culprit with Git Blame"
-parent: "to-be-sorted"
+title: Find the Culprit with Git Blame
 ---
-
 Shows what revision and author last modified each line of a file and blame them.
 
 ![:point_right:](//forum.freecodecamp.com/images/emoji/emoji_one/point_right.png?v=2 ":point_right:") ![:no_good:](//forum.freecodecamp.com/images/emoji/emoji_one/no_good.png?v=2 ":no_good:") -- ![:see_no_evil:](//forum.freecodecamp.com/images/emoji/emoji_one/see_no_evil.png?v=2 ":see_no_evil:") ![:hear_no_evil:](//forum.freecodecamp.com/images/emoji/emoji_one/hear_no_evil.png?v=2 ":hear_no_evil:") ![:speak_no_evil:](//forum.freecodecamp.com/images/emoji/emoji_one/speak_no_evil.png?v=2 ":speak_no_evil:")

@@ -1,8 +1,6 @@
 ---
-title: "Apply the Default Bootstrap Button Style"
-parent: "certificates-guide"
+title: Apply the Default Bootstrap Button Style
 ---
-
 Bootstrap has a button class called `btn-default`
 
     <div class="container-fluid">

@@ -1,8 +1,6 @@
 ---
-title: "Say Hello to HTML Elements"
-parent: "certificates-guide"
+title: Say Hello To HTML Elements
 ---
-
 HTML elements are written with a starting tag, an ending tag, and the content in between:
 
 *   `<tagname>content</tagname>`

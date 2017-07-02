@@ -1,8 +1,6 @@
 ---
-title: "Python Complex Numbers"
-parent: "python"
+title: Python Complex Numbers
 ---
-
 Complex numbers have a real and an imaginary part, each represented by a floating point number.
 
 The imaginary part of a complex number can be created using an imaginary literal, this results in a complex number with a real part of `0.0`:

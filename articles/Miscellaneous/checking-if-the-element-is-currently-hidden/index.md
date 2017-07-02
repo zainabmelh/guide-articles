@@ -1,8 +1,6 @@
 ---
-title: "Checking if the element is currently hidden"
-parent: "to-be-sorted"
+title: Checking If the Element Is Currently Hidden
 ---
-
 If you need to check the visibility status of some element on the page, you can do that easily with jQuery library with the simple block of code like the one below.
 
     var display = ( jQuery('#someElement').is(':visible') );

@@ -1,8 +1,6 @@
 ---
-title: "Change the Font Size of an Element"
-parent: "certificates-guide"
+title: Change the Font Size of An Element
 ---
-
 Font size is controlled by the `font-size` CSS attribute, like this: `h1 { font-size: 30px; }`.
 
 px is a unit that stands for [pixels](https://en.wikipedia.org/wiki/Pixel)

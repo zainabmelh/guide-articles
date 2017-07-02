@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Math.pow()"
-parent: "javascript"
+title: javaScript Mathpow
 ---
-
 The Math.pow() returns the `base` to the `exponent` power.
 
 ## Syntax

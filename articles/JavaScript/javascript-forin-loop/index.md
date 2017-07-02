@@ -1,8 +1,6 @@
 ---
-title: "JavaScript For..In Loop"
-parent: "javascript"
+title: javaScript Forin Loop
 ---
-
 The `for..in` statement iterates over the enumerable properties of an object, in arbitrary order. For each distinct property, statements can be executed.
 
     for (variable in object) {

@@ -1,8 +1,6 @@
 ---
-title: "Assignment with Times Equals"
-parent: "certificates-guide"
+title: Assignment with Times Equals
 ---
-
 The `*= operator` multiplies a variable by a number.
 
     myVar = myVar * 5;

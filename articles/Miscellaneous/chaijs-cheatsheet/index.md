@@ -1,8 +1,6 @@
 ---
-title: "Chai.js CheatSheet"
-parent: "to-be-sorted"
+title: Chaijs Cheatsheet
 ---
-
 ## Assert
 
     assert(val)

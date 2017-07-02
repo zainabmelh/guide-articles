@@ -1,8 +1,6 @@
 ---
-title: "Installing Dependencies for React with Webpack Projects"
-parent: "to-be-sorted"
+title: Installing Dependencies for React with Webpack Projects
 ---
-
 Now that we have an empty Webpack Configuration file (`webpack.config.js`) and a freshly made Package file (`package.json`), we need to install some dependencies. Installing dependencies automatically adds some data to our `package.json`.
 
 This project will depend on React, ReactDOM, Webpack, and Webpack Dev Server. It will also depend on a number of Babel packages, because we are going to be writing code using ES6, and [Babel is an ES6 transpiler](https://babeljs.io/).

@@ -1,8 +1,6 @@
 ---
-title: "Free Code Camp Full Stack Development Certification"
-parent: "general"
+title: Free Code Camp Full Stack Development Certification
 ---
-
 In order to participate in our nonprofit projects, you first need to earn our Full Stack Development Certification. This certification signifies that you've completed the first 800 hours of our curriculum.
 
 ![An image of a sample Front End Development Certificate](//discourse-user-assets.s3.amazonaws.com/original/2X/1/1150a2e2473730df906909f820e3d8fdf54d6c14.png)

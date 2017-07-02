@@ -1,8 +1,6 @@
 ---
-title: "Writing a Markdown File for GitHub using Atom"
-parent: "to-be-sorted"
+title: Writing A Markdown File for Github Using Atom
 ---
-
 Markdown is a way to style text on the web, and GitHub users make use of markdown to provide documentation for their repositories.
 
 From [GitHub guides](https://guides.github.com/features/mastering-markdown/):

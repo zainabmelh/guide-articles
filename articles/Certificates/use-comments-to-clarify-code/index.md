@@ -1,8 +1,6 @@
 ---
-title: "Use Comments to Clarify Code"
-parent: "certificates-guide"
+title: Use Comments To Clarify Code
 ---
-
 When we start using jQuery, we will modify HTML elements without needing to actually change them in HTML.
 
 This is a great way to make websites with a particular structure. Remember that you can start a comment with `<!-- and end a comment with -->`

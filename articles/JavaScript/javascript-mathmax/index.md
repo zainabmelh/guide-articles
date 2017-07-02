@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Math.max()"
-parent: "javascript"
+title: javaScript Mathmax
 ---
-
 The `Math.max()` function returns the largest of zero or more numbers.
 
 ## Syntax

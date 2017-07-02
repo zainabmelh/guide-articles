@@ -1,8 +1,6 @@
 ---
-title: "Java Docs: Constructors"
-parent: "java"
+title: Java Docs Constructors
 ---
-
 # Java Constructors
 
 What's the point then? I should be able to store data in it right?

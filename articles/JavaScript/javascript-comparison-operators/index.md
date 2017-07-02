@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Comparison Operators"
-parent: "javascript"
+title: javaScript Comparison Operators
 ---
-
 JavaScript has both **strict** and **type–converting** comparisons.
 
 *   A strict comparison (e.g. ===) is only true if the operands are of the same type.

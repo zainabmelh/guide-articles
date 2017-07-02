@@ -1,8 +1,6 @@
 ---
-title: "How Free Code Camp Works"
-parent: "to-be-sorted"
+title: How Free Code Camp Works
 ---
-
 Free Code Camp offers you a free, self-paced, browser-based program that takes about 1,600 hours to complete.
 
 ![An image of a table showing the different segments of Free Code Camp](//discourse-user-assets.s3.amazonaws.com/original/2X/4/44b781708f6843b9267c13519cd6c536e890a411.jpg)

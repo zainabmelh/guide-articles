@@ -1,8 +1,6 @@
 ---
-title: "Python Code Blocks and Indentation"
-parent: "python"
+title: Python Code Blocks and Indentation
 ---
-
 [Indentation](https://docs.python.org/3/reference/lexical_analysis.html#indentation)
 
 **TODO: NOTE**

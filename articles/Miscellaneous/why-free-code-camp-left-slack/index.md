@@ -1,8 +1,6 @@
 ---
-title: "Why Free Code Camp left Slack"
-parent: "to-be-sorted"
+title: Why Free Code Camp Left Slack
 ---
-
 Slack is a popular chatroom service that Free Code Camp outgrew
 
 ![Free Code Camp's Slack usage stats](//discourse-user-assets.s3.amazonaws.com/original/2X/d/da98adf7a036ae5bd8410b09c64f394d014694a0.png)

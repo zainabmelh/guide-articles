@@ -1,8 +1,6 @@
 ---
-title: "Free Code Camp's Summit August 2015"
-parent: "general"
+title: Free Code Camps Summit August 2015
 ---
-
 Free Code Camp's <a>August Live Stream</a> was the largest yet.
 
 ## The agenda included:

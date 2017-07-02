@@ -1,8 +1,6 @@
 ---
-title: "Convert HTML Entities"
-parent: "certificates-guide"
+title: Convert HTML Entities
 ---
-
 <div class="lightbox-wrapper">[![](//discourse-user-assets.s3.amazonaws.com/optimized/2X/f/fc44d1dfbd3910e574cdedb0f05162f65b4cb7c4_1_690x198.jpg)
 
 <div class="meta"><span class="filename">g7sWL1I.jpg</span><span class="informations">800x230 48.4 KB</span><span class="expand"></span></div>](//discourse-user-assets.s3.amazonaws.com/original/2X/f/fc44d1dfbd3910e574cdedb0f05162f65b4cb7c4.jpg "g7sWL1I.jpg") </div>

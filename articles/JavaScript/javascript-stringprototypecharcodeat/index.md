@@ -1,8 +1,6 @@
 ---
-title: "JavaScript String.prototype.charCodeAt()"
-parent: "javascript"
+title: javaScript Stringprototypecharcodeat
 ---
-
 The `charCodeAt()` method returns the numeric Unicode value of the character at the given index (except for unicode codepoints > 0x10000).
 
 ## Syntax

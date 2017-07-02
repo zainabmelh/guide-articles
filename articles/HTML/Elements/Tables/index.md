@@ -1,4 +1,6 @@
-
+---
+title: Tables
+---
 #### Suggested Reading:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 [Creating tables in HTML](https://computerservices.temple.edu/creating-tables-html)

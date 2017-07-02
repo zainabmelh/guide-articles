@@ -1,8 +1,6 @@
 ---
-title: "Advantages of Linux"
-parent: "linux"
+title: Advantages of Linux
 ---
-
 ## Constant and efficient improvements.
 
 Linux updates happen through the global collaboration of developers. Bugs are documented and resolved much quicker with this type of support. Also, since the developers are also the end-users they have a motivation to make sure it meets user's needs and that it is designed to run well.

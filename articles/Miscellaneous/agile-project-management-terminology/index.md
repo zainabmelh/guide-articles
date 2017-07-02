@@ -1,8 +1,6 @@
 ---
-title: "Agile Project Management Terminology"
-parent: "to-be-sorted"
+title: Agile Project Management Terminology
 ---
-
 During the Free Code Camp volunteer projects we use an Agile Project Management methodology. For many of our campers and stakeholders, this is their first exposure to Agile. While you're not expected to be an Agile expert, here are a few terms it would be helpful to know:
 
 *   **Task Board** - A chart that lists what needs to be done, what's being worked on, and what's been completed. We use Trello as our task board.

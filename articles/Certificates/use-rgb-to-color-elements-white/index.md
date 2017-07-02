@@ -1,6 +1,4 @@
 ---
-title: "Use RGB to Color Elements White"
-parent: "certificates-guide"
+title: Use Rgb To Color Elements White
 ---
-
-    background-color: rgb(255,255,255)
+background-color: rgb(255,255,255)

@@ -1,8 +1,6 @@
 ---
-title: "Python FrozenSet"
-parent: "python"
+title: Python Frozenset
 ---
-
 **TODO: `frozenset` basic info**
 
 **Immutable**

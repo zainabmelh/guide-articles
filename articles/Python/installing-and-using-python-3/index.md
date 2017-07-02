@@ -1,8 +1,6 @@
 ---
-title: "Installing and Using Python 3"
-parent: "python"
+title: Installing and Using Python 3
 ---
-
 You can download Python from this official [link](https://www.python.org/downloads/). Based on your OS (Windows or Linux or OSX), you might want to install Python 3 following [these instructions](http://docs.python-guide.org/en/latest/starting/installation/).
 
 It is always a great idea to [sandbox](https://en.wikipedia.org/wiki/Sandbox_(computer_security)) your Python installation; and keeping it separate from your _System Python_. The _System Python_ is the path to Python interpreter, which is used by other modules installed along with your OS.

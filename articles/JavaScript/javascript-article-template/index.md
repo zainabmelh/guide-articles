@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Article Template"
-parent: "javascript"
+title: javaScript Article Template
 ---
-
 > This Template helps you build JavaScript topic wiki's.
 
 # Title

@@ -1,8 +1,6 @@
 ---
-title: "JavaScript String.prototype.split()"
-parent: "javascript"
+title: javaScript Stringprototypesplit
 ---
-
 The split() method splits a string into an array of strings.
 
 **Syntax**

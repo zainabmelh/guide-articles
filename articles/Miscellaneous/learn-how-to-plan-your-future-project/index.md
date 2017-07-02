@@ -1,8 +1,6 @@
 ---
-title: "Learn how to plan your future project!"
-parent: "to-be-sorted"
+title: Learn How To Plan Your Future Project
 ---
-
 An ounce of preparation is worth a pound of cure. That's true in medicine, and that's definitely true in software development.
 
 Here's a structured 10-step workflow that will guide you through the app planning process, with the goal of saving you from writing a lot of unnecessary code.

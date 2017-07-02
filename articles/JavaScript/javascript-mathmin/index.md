@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Math.min()"
-parent: "javascript"
+title: javaScript Mathmin
 ---
-
 The `Math.min()` function returns the smallest of zero or more numbers.
 
 ## Syntax

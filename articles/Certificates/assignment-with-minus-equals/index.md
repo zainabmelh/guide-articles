@@ -1,8 +1,6 @@
 ---
-title: "Assignment with Minus Equals"
-parent: "certificates-guide"
+title: Assignment with Minus Equals
 ---
-
 Like the `+= operator`, `-=` subtracts a number from a variable.
 
     myVar = myVar - 5;

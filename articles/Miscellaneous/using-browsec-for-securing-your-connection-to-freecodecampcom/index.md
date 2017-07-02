@@ -1,8 +1,6 @@
 ---
-title: "Using Browsec for Securing your Connection to FreeCodeCamp.com"
-parent: "to-be-sorted"
+title: Using Browsec for Securing Your Connection To Freecodecampcom
 ---
-
 ### Why do I need an plugin or add-on?
 
 Lately some of the campers started facing strange problems, namely "Content Modification" by some Internet Service Providers (ISP), leading to the [FreeCodeCamp.com](http://freecodecamp.com) (FCC) website being broken sometimes.

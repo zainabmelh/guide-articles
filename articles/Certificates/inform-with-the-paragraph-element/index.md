@@ -1,8 +1,6 @@
 ---
-title: "Inform with the Paragraph Element"
-parent: "certificates-guide"
+title: Inform with the Paragraph Element
 ---
-
 `p` elements are the preferred element for normal-sized paragraph text on websites. P is short for "paragraph".
 
 You can create a p element like so: `<p>I'm a p tag!</p>`.

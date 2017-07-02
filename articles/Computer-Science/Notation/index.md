@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Notation
 ---
-
 ### An Intro to this section
