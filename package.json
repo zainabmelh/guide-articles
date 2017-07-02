@@ -4,6 +4,7 @@
   "description": "![](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)",
   "main": "normaliseArticles.js",
   "scripts": {
+    "meta": "node normaliseArticles.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
