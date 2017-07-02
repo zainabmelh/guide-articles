@@ -1,4 +1,14 @@
 ---
 title: Floating Point Precision
 ---
-### An Intro to this section
+
+## Floating Point Precision
+
+This is a stub. [Help our community expand it.](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Math/Number-Theory/Floating-Point-Precision/index.md)
+
+<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+
+#### More Information:
+<!-- Please add any articles you think might be helpful to read before writing the article -->
+
+

@@ -1,4 +1,14 @@
 ---
 title: Normal Form
 ---
-### An Intro to this section
+
+## Normal Form
+
+This is a stub. [Help our community expand it.](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Computer-Science/Databases/Normal-Form/index.md)
+
+<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+
+#### More Information:
+<!-- Please add any articles you think might be helpful to read before writing the article -->
+
+

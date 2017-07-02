@@ -1,4 +1,14 @@
 ---
 title: Factorials And Binomial Coefficients
 ---
-### An Intro to this section
+
+## Factorials And Binomial Coefficients
+
+This is a stub. [Help our community expand it.](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Math/Counting/Factorials-And-Binomial-Coefficients/index.md)
+
+<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+
+#### More Information:
+<!-- Please add any articles you think might be helpful to read before writing the article -->
+
+
