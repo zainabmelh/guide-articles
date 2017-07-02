@@ -1,8 +1,6 @@
 ---
-title: "How to undo a git add"
-parent: "how-to"
+title: How To Undo A Git Add
 ---
-
 # Undo git add
 
 To undo `git add` before a commit:

@@ -1,8 +1,6 @@
 ---
-title: "Python Keywords"
-parent: "python"
+title: Python Keywords
 ---
-
 Python has a list of [keywords](https://docs.python.org/3/reference/lexical_analysis.html#keywords) that cannot be used as identifiers (variable names):
 
     >>> False = "Hello campers!"

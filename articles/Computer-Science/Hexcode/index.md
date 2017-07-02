@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Hexcode
 ---
-
 ### An Intro to this section

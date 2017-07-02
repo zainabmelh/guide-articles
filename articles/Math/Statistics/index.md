@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Statistics
 ---
-
 ### An Intro to this section

@@ -1,8 +1,6 @@
 ---
-title: "Free Code Camp's Summit December 2015"
-parent: "general"
+title: Free Code Camps Summit December 2015
 ---
-
 [Free Code Camp's December Summit](https://youtu.be/TsIzthxhTHc)
 
 Here is a summary for those who don't have time to watch the full 90 minutes:

@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Dot Product
 ---
-
 ### An Intro to this section

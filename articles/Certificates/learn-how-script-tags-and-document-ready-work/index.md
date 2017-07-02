@@ -1,8 +1,6 @@
 ---
-title: "Learn how Script Tags and Document Ready Work"
-parent: "certificates-guide"
+title: Learn How Script Tags and Document Ready Work
 ---
-
 For some reason FCC likes to introduce `jQuery` before JavaScript itself.
 
 To add JS to your HTML, you need a `script` tag. Your browser will run any JavaScript inside a script element, including jQuery.

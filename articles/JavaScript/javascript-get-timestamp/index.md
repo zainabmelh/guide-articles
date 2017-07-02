@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Get Timestamp"
-parent: "javascript"
+title: javaScript Get Timestamp
 ---
-
 You can use `Date.now()` to get the current timestamp in milliseconds.
 
 You can easily convert the timestamp to seconds like this: `Math.floor(Date.now() / 1000)`

@@ -1,8 +1,6 @@
 ---
-title: "Java Docs: Strings"
-parent: "java"
+title: Java Docs Strings
 ---
-
 # Java Strings
 
 Strings, as you might be already aware, are a sequence of characters. In Java, a `String` is an `Object`.

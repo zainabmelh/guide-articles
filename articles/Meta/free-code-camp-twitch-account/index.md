@@ -1,8 +1,6 @@
 ---
-title: "Free Code Camp Twitch Account"
-parent: "general"
+title: Free Code Camp Twitch Account
 ---
-
 Twitch is a popular live streaming service that Free Code Camp moved away from
 
 As much as we enjoyed using this service, streams were few and far between and therefore it wasn't serving it's purpose.

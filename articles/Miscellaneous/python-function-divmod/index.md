@@ -1,8 +1,6 @@
 ---
-title: "Python-Function-DIVMOD"
-parent: "to-be-sorted"
+title: Python Function Divmod
 ---
-
 # Python `divmod(a,b)`
 
 `divmod()` is a built-in function in Python 3, which returns the quotient and remainder when dividing the number `a` by the number `b`. It takes two numbers as arguments `a` & `b`. The argument can't be a complex number.

@@ -1,8 +1,6 @@
 ---
-title: "Don't just say RTFM"
-parent: "to-be-sorted"
+title: Dont Just Say Rtfm
 ---
-
 RTFM comments generally useless
 
 > If everybody read the fine manual, most of the questions asked on the internet would go away!

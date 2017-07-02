@@ -1,8 +1,6 @@
 ---
-title: "How To Get Help When You Are Stuck"
-parent: "how-to"
+title: How To Get Help When You Are Stuck
 ---
-
 When you get stuck, remember: Read-Search-Ask.
 
 1.  **Read** the documentation or error

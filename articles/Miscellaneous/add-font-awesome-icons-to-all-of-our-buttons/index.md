@@ -1,9 +1,7 @@
 ---
-title: "Add Font Awesome Icons to all of our Buttons"
-parent: "to-be-sorted"
+title: Add Font Awesome Icons To All of Our Buttons
 ---
-
-    <i class="fa fa-trash"></i>
+<i class="fa fa-trash"></i>
 
 Will add a trash can icon.
 

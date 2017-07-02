@@ -1,8 +1,6 @@
 ---
-title: "NPM Behind A Proxy Server"
-parent: "to-be-sorted"
+title: Npm Behind A Proxy Server
 ---
-
 ## Use-cases
 
 You might need to modify `npm install` commands that access remote repositories ([npmjs](https://www.npmjs.com/), for example) for installing Node JS modules; if your internet access is through a [proxy server](https://en.wikipedia.org/wiki/Proxy_server).

@@ -1,8 +1,6 @@
 ---
-title: "Wiki Git Resources"
-parent: "to-be-sorted"
+title: Wiki Git Resources
 ---
-
 # Git Resources
 
 A collection of resources on the [Git VCS](https://git-scm.com).

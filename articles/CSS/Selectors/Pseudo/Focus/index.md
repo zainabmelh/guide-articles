@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Focus
 ---
-
 ### An Intro to this section

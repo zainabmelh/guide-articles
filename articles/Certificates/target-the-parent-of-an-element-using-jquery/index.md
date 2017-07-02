@@ -1,8 +1,6 @@
 ---
-title: "Target the Parent of an Element Using jQuery"
-parent: "certificates-guide"
+title: Target the Parent of An Element Using Jquery
 ---
-
 Every HTML elements has a parent element from which it inherits properties.
 
 For example, your jQuery Playground `h3` element has the parent element of`<div class="container-fluid">`, which itself has the parent body.

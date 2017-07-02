@@ -1,8 +1,6 @@
 ---
-title: "Python Built in Constants"
-parent: "python"
+title: Python Built In Constants
 ---
-
 [Constants](https://docs.python.org/3/library/constants.html)
 
 Three commonly used built-in constants:

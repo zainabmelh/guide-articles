@@ -1,8 +1,6 @@
 ---
-title: "Python Import Statements"
-parent: "python"
+title: Python Import Statements
 ---
-
 While learning programming and reading some resources you'd have come across this word 'abstraction' which simply means to reduce and reuse the code as much as possible.
 
 Functions and Modules facilitate abstraction. You create functions when you want to do something repeatedly within a file.

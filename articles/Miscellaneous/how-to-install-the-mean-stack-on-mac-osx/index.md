@@ -1,8 +1,6 @@
 ---
-title: "How to Install the MEAN Stack on Mac OSX"
-parent: "how-to"
+title: How To Install the Mean Stack On Mac Osx
 ---
-
 To install MongoDB, you should have Mac OS X 10.6 (Snow Leopard) or above. To find out which version of OS X you own, click the  icon in the top left corner of your screen and select `About This Mac`.
 
 ![:warning:](//forum.freecodecamp.com/images/emoji/emoji_one/warning.png?v=2 ":warning:") **WARNING:** do a Time Machine backup before carrying out any of the following steps!

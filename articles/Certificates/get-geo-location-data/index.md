@@ -1,8 +1,6 @@
 ---
-title: "Get Geo Location Data"
-parent: "certificates-guide"
+title: Get Geo Location Data
 ---
-
 Every browser has a built in navigator that can give us this information.
 
 The navigator will get our user's current longitude and latitude.

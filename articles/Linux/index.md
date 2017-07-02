@@ -1,5 +1,4 @@
 ---
-title: "Introduction: Linux"
+title: Linux
 ---
-
 ### An Intro to this section

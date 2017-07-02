@@ -1,8 +1,6 @@
 ---
-title: "Keep Data in sync in Angular"
-parent: "to-be-sorted"
+title: Keep Data In Sync In Angular
 ---
-
 Say you want something to show up on the user view when you add it to the database. A new _thing_ object will instantly show up in an _ng-repeat_ loop in your HTML view if you simply add it to your local array with
 
     $scope.awesomeThings.push(newThing);

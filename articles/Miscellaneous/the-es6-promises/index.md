@@ -1,8 +1,6 @@
 ---
-title: "The ES6 Promises"
-parent: "to-be-sorted"
+title: the Es6 Promises
 ---
-
 A new feature of ES6 to help with async programming.
 
 ## syntax

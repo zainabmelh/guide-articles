@@ -1,8 +1,6 @@
 ---
-title: "Challenge Dire Bonjour Aux Elements HTML"
-parent: "to-be-sorted"
+title: Challenge Dire Bonjour Aux Elements HTML
 ---
-
 Les éléments HTML sont écrits avec une balise de début, une balise de fin, et du contenu entre les deux:
 
 *   `<nom-de-la-balise>contenu</nom-de-la-balise>`

@@ -1,8 +1,6 @@
 ---
-title: "Get Current URL in Javascript"
-parent: "javascript"
+title: Get Current Url In javaScript
 ---
-
 To get the **current URL**:
 
     var url = window.location.href;

@@ -1,8 +1,6 @@
 ---
-title: "Algoritmo de Argumentos Opcionales"
-parent: "to-be-sorted"
+title: Algoritmo De Argumentos Opcionales
 ---
-
 ![](//discourse-user-assets.s3.amazonaws.com/original/2X/f/ff2fd8ffa014eea28587a8ef4933340d3dcc4b09.jpg)
 
 ### Explicación:

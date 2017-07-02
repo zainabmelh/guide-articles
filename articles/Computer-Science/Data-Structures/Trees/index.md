@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Trees
 ---
-
 ### An Intro to this section

@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Probability
 ---
-
 ### An Intro to this section

@@ -1,8 +1,6 @@
 ---
-title: "HTML and CSS Cheat Sheet"
-parent: "to-be-sorted"
+title: HTML and CSS Cheat Sheet
 ---
-
 This a page that (hopefully) in time will grow to cover the basic and simple HTML and CSS solutions.
 
 Please add to your alternate solutions if you know a different way.

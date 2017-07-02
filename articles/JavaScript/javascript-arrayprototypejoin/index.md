@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Array.prototype.join()"
-parent: "javascript"
+title: javaScript Arrayprototypejoin
 ---
-
 The JavaScript array method `.join()` will combine all elements of an array into a single string.
 
 **Syntax**

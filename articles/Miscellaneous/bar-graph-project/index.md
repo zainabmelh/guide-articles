@@ -1,8 +1,6 @@
 ---
-title: "Bar Graph Project"
-parent: "to-be-sorted"
+title: Bar Graph Project
 ---
-
 ## Our goal is to learn the basics of data
 
 Visualization using D3 through this project.

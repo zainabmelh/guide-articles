@@ -1,8 +1,6 @@
 ---
-title: "Learn about Elixir"
-parent: "to-be-sorted"
+title: Learn About Elixir
 ---
-
 ![Elixir Logo](//discourse-user-assets.s3.amazonaws.com/original/2X/f/ffb29c7c694656265e093920b571731fb25b6029.png)
 
 [Elixir](http://elixir-lang.org/) is a [dynamically typed](https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information), [functional programming language](https://en.wikipedia.org/wiki/Functional_programming) which uses [Erlang](https://www.erlang.org/) VM.

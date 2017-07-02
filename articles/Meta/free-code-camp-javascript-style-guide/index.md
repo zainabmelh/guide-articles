@@ -1,8 +1,6 @@
 ---
-title: "Free Code Camp Javascript Style Guide"
-parent: "general"
+title: Free Code Camp javaScript Style Guide
 ---
-
 <small>or How Cool People Write JavaScript.</small>
 
 ## Indent

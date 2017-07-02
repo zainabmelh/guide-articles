@@ -1,8 +1,6 @@
 ---
-title: "Design Resources for Front End Developers"
-parent: "to-be-sorted"
+title: Design Resources for Front End Developers
 ---
-
 Are you a freelance front-end web developer or are you thinking about becoming one? Maybe you've been to a coding bootcamp or graduated from an online front-end development course. What happens next?
 
 You get your first customer. It might just be a friend who needs a personal website. It doesn't matter. You don't want it to look amateurish. You want it to look good. You want it to look professional.

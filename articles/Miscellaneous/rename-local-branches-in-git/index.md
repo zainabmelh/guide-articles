@@ -1,8 +1,6 @@
 ---
-title: "Rename local branches in Git"
-parent: "to-be-sorted"
+title: Rename Local Branches In Git
 ---
-
 To rename a local branch, enter the following into the terminal:
 
 > `-m` stands for move, just like `mv` is used in linux to rename files.

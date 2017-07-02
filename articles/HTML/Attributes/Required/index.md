@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Required
 ---
-
 ### An Intro to this section

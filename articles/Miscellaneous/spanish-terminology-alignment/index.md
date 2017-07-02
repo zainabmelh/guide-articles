@@ -1,8 +1,6 @@
 ---
-title: "Spanish Terminology Alignment"
-parent: "to-be-sorted"
+title: Spanish Terminology Alignment
 ---
-
 Para evitar confusión para otros Campers necesitamos alinearnos todos los traductores con la misma terminología. Para ello, hemos creado una lista con las palabras más comúnes y las traducciones que hemos estado utilizando hasta ahora.
 
 Vale recalcar que todos los términos están abiertos a discusión. En caso se tenga que hacer algún cambio, nos pueden enviar un mensaje directo a través de Slack a <span class="mention">@miya</span> o <span class="mention">@eabedrapo</span>.

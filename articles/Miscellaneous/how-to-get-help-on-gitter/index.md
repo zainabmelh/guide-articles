@@ -1,8 +1,6 @@
 ---
-title: "How to Get Help on Gitter"
-parent: "how-to"
+title: How To Get Help On Gitter
 ---
-
 Sorry that you are stuck. Luckily there are many campers who hang out on Gitter and can help you resolve most issues! Follow these simple steps to get help fast:
 
 1.  Go to the [Help Room](https://gitter.im/FreeCodeCamp/Help)

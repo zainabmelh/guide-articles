@@ -1,8 +1,6 @@
 ---
-title: "Advantages of using Free Code Camp"
-parent: "to-be-sorted"
+title: Advantages of Using Free Code Camp
 ---
-
 Free Code Camp's main advantages are that we're accessible to busy adults who want to change careers.
 
 Specifically, we're:

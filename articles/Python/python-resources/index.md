@@ -1,8 +1,6 @@
 ---
-title: "Python Resources"
-parent: "python"
+title: Python Resources
 ---
-
 ## Tutorials
 
 *   [Python Official Tutorials](https://docs.python.org/3/tutorial/)

@@ -1,8 +1,6 @@
 ---
-title: "The C# Programming Language"
-parent: "to-be-sorted"
+title: the C Programming Language
 ---
-
 ## Basics
 
 *   Setup

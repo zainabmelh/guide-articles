@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Bower
 ---
-
 ### An Intro to this section

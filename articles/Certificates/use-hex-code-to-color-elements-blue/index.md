@@ -1,8 +1,6 @@
 ---
-title: "Use Hex Code to Color Elements Blue"
-parent: "certificates-guide"
+title: Use Hex Code To Color Elements Blue
 ---
-
 Just as with <a>red</a> and the others.
 
     <style>

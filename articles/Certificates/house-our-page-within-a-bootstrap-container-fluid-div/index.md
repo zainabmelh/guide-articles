@@ -1,8 +1,6 @@
 ---
-title: "House our page within a Bootstrap Container Fluid Div"
-parent: "certificates-guide"
+title: House Our Page Within A Bootstrap Container Fluid Div
 ---
-
 To make the content responsive, we use the `container-fluid` class.
 
     <div class="container-fluid">

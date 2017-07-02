@@ -1,8 +1,6 @@
 ---
-title: "Running Webpack and Webpack Dev Server"
-parent: "to-be-sorted"
+title: Running Webpack and Webpack Dev Server
 ---
-
 The time has come to use Webpack. Because Webpack is installed globally, we can run the following in our terminal:
 
     webpack

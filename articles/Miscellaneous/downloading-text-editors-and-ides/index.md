@@ -1,8 +1,6 @@
 ---
-title: "Downloading Text Editors and IDEs"
-parent: "to-be-sorted"
+title: Downloading Text Editors and Ides
 ---
-
 We discuss popular Text Editors and IDEs and how to install them on Ubuntu.
 
 ## Popular choices:

@@ -1,8 +1,6 @@
 ---
-title: "Learn about Python Lists"
-parent: "python"
+title: Learn About Python Lists
 ---
-
 **TODO: `list` basic info**
 
 [Python Docs - Lists](https://docs.python.org/3/library/stdtypes.html#lists)

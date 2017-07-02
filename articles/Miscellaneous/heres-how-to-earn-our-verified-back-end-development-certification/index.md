@@ -1,8 +1,6 @@
 ---
-title: "Here's how to earn our verified Back End Development Certification"
-parent: "to-be-sorted"
+title: Heres How To Earn Our Verified Back End Development Certification
 ---
-
 ![An image of a sample Back End Development Certification](//discourse-user-assets.s3.amazonaws.com/original/2X/e/ea633a0abec2ec4b17c3c9b5b24fb9809776289a.png)
 
 1.  API Projects

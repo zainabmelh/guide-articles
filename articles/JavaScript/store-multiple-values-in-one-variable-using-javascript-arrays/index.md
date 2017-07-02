@@ -1,8 +1,6 @@
 ---
-title: "Store Multiple Values in one Variable using JavaScript Arrays"
-parent: "javascript"
+title: Store Multiple Values In One Variable Using javaScript Arrays
 ---
-
 With JavaScript array variables, we can store several pieces of data in one place.
 
 You start an array declaration with an opening bracket, end it with a closing bracket, and put a comma between each entry, like this:

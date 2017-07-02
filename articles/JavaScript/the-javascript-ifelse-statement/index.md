@@ -1,8 +1,6 @@
 ---
-title: "The JavaScript if...else Statement"
-parent: "javascript"
+title: the javaScript Ifelse Statement
 ---
-
 ## Introduction
 
 The `if` statement executes a statement if a specified condition is **true**. If the condition is **false**, another statement can be executed using the `else` statement..

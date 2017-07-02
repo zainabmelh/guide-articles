@@ -1,8 +1,6 @@
 ---
-title: "Python Escape Sequences"
-parent: "python"
+title: Python Escape Sequences
 ---
-
 A list of escape sequences can be found [here](https://docs.python.org/3/reference/lexical_analysis.html#strings)
 
 Escape sequences allow for including special characters into strings.

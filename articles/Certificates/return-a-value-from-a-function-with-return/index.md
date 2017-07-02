@@ -1,8 +1,6 @@
 ---
-title: "Return a Value from a Function with Return"
-parent: "certificates-guide"
+title: Return A Value From A Function with Return
 ---
-
 We can pass values into a function with `arguments`. You can use a `return` statement to send a value back out of a function.
 
 ## Example

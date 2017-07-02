@@ -1,8 +1,6 @@
 ---
-title: "Split your Bootstrap Row"
-parent: "certificates-guide"
+title: Split Your Bootstrap Row
 ---
-
 Create two `div` elements within your row, both with the class `col-xs-6`.
 
     <div class="container-fluid">

@@ -1,8 +1,6 @@
 ---
-title: "Python Truth Value Testing"
-parent: "python"
+title: Python Truth Value Testing
 ---
-
 [Python Docs - Truth Value Testing](https://docs.python.org/3/library/stdtypes.html#truth-value-testing)
 
 Any object can be tested for truth value, for use in an if or while condition or as operand of the Boolean operations below. The following values are considered false:

@@ -1,8 +1,6 @@
 ---
-title: "Use Hex Code to Color Elements Green"
-parent: "certificates-guide"
+title: Use Hex Code To Color Elements Green
 ---
-
 Just as with <a>red</a> and the others.
 
     <style>

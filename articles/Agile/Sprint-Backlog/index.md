@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Sprint Backlog
 ---
-
 ### An Intro to this section

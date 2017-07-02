@@ -1,8 +1,6 @@
 ---
-title: "Python len(x) function"
-parent: "python"
+title: Python Lenx Function
 ---
-
 `len()` is a built-in function in Python 3\. This method returns the length (the number of items) of an object. It takes one argument `x`.
 
 ## Arguments

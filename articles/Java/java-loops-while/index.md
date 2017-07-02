@@ -1,8 +1,6 @@
 ---
-title: "Java Loops: while"
-parent: "java"
+title: Java Loops While
 ---
-
 # Java while Loop
 
 The `while` loop executes a group of statements / single statement till a condition evaluates to `true`. For instance:

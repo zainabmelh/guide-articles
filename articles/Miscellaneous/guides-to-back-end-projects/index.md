@@ -1,8 +1,6 @@
 ---
-title: "Guides to Back End Projects"
-parent: "to-be-sorted"
+title: Guides To Back End Projects
 ---
-
 Here you will find articles that will help you learn more and complete your back end projects.
 
 ## Table of contents

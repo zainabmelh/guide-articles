@@ -1,8 +1,6 @@
 ---
-title: "CSS Flexbox Tips and Tricks"
-parent: "css"
+title: CSS Flexbox Tips and Tricks
 ---
-
 # CSS Flexbox
 
 [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes) allows us to easily format our HTML like you never knew was possible. With flexbox it is possible to align vertically and horizontally, easily. Like the sound of it? Yeah me too.

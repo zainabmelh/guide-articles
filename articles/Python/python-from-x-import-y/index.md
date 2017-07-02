@@ -1,8 +1,6 @@
 ---
-title: "Python From X Import Y"
-parent: "python"
+title: Python From X Import Y
 ---
-
 If you have read the <a>`import statements`</a> wiki then you'd have seen me use this statement in one of the examples. Today, we'll try to understand what it does
 
 So picking up the same example:

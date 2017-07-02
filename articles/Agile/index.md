@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Agile
 ---
-
 ### An Intro to this section

@@ -1,8 +1,6 @@
 ---
-title: "Free Code Camp Cost"
-parent: "general"
+title: Free Code Camp Cost
 ---
-
 We will always be completely free for both students and for nonprofits.
 
 Our name is Free Code Camp. We are a free code camp. If you had to pay us (or sign over future earnings), we'd have to change our name. And we are not going to do that.

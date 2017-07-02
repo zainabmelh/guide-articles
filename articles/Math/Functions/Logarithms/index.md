@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Logarithms
 ---
-
 ### An Intro to this section

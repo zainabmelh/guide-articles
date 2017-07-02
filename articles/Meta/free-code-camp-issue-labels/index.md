@@ -1,8 +1,6 @@
 ---
-title: "Free Code Camp Issue labels"
-parent: "general"
+title: Free Code Camp Issue Labels
 ---
-
 In this article you can find labels (see the table below) used to categorize the variety of issues submitted to FCC, along with descriptions (work in progress). The labels range from **bugs** to **questions** to **curriculum requests**.
 
 You can use labels to help you choose which issues to click on, rather than randomly clicking to find one of interest to you. Of course, you can work on and submit PRs for issues without labels. However you choose an issue, please be sure to read the [Guidelines for Contributing](https://github.com/FreeCodeCamp/FreeCodeCamp/blob/staging/CONTRIBUTING.md) before submitting any pull requests.

@@ -1,8 +1,6 @@
 ---
-title: "Site improvements for October 2015"
-parent: "to-be-sorted"
+title: Site Improvements for October 2015
 ---
-
 Our open source community has been hard at work throughout September on some major improvements. We're going to keep up this tempo, and do a special live stream for our first birthday (October 15, 2015). Here are the improvements we just pushed to production:
 
 ## Certification

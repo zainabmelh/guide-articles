@@ -1,8 +1,6 @@
 ---
-title: "Use Hex Code to Mix Colors"
-parent: "certificates-guide"
+title: Use Hex Code To Mix Colors
 ---
-
 Orange is pure red, mixed with some green, and no blue.
 
     <style>

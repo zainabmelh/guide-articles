@@ -1,8 +1,6 @@
 ---
-title: "JavaScript String.prototype.substring()"
-parent: "javascript"
+title: javaScript Stringprototypesubstring
 ---
-
 The `substring()` method returns a subset of a string between one index and another, or through the end of the string.
 
 ## Syntax

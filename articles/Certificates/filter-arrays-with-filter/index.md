@@ -1,8 +1,6 @@
 ---
-title: "Filter Arrays with Filter"
-parent: "certificates-guide"
+title: Filter Arrays with Filter
 ---
-
 Filter is a useful method that can filter out values that don't match a certain criteria.
 
     var array = [1,2,3,4,5,6,7,8,9,10];

@@ -1,8 +1,6 @@
 ---
-title: "using typeof"
-parent: "certificates-guide"
+title: Using Typeof
 ---
-
 You can use `typeof` to check the `data structure`, or type, of a variable.
 
 Note that in JavaScript, arrays are technically a type of object.

@@ -1,5 +1,4 @@
 ---
-title: "Introduction: Ruby"
+title: Ruby
 ---
-
 ### An Intro to this section

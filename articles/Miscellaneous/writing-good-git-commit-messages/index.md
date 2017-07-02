@@ -1,8 +1,6 @@
 ---
-title: "Writing Good Git Commit Messages"
-parent: "to-be-sorted"
+title: Writing Good Git Commit Messages
 ---
-
 1.  Separate subject from body with a blank line
 2.  Limit the subject line to 50 characters
 3.  Capitalize the subject line

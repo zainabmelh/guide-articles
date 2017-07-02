@@ -1,8 +1,6 @@
 ---
-title: "CSS Framework Foundation"
-parent: "css"
+title: CSS Framework Foundation
 ---
-
 # CSS Framework Foundation
 
 [Foundation](http://foundation.zurb.com/) is the one of the most advanced responsive front-end frameworks.

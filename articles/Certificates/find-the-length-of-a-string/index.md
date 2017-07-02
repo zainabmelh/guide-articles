@@ -1,8 +1,6 @@
 ---
-title: "Find the Length of a String"
-parent: "certificates-guide"
+title: Find the Length of A String
 ---
-
 You can find the _length_ of a String value by writing `.length` after the string variable or string literal.
 
 `"Alan Peter".length; // 10`

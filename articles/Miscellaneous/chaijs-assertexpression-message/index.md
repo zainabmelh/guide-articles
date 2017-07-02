@@ -1,8 +1,6 @@
 ---
-title: "Chai.js Assert(expression, message)"
-parent: "to-be-sorted"
+title: Chaijs Assertexpression Message
 ---
-
 [@param](/users/param){ Mixed }expressionto test for truthiness  
 - [@param](/users/param){ String }messageto display on error
 

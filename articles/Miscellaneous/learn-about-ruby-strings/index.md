@@ -1,8 +1,6 @@
 ---
-title: "Learn about Ruby Strings"
-parent: "to-be-sorted"
+title: Learn About Ruby Strings
 ---
-
 ### Basics:
 
 *   Strings are a series of characters 'strung' together between quotes.

@@ -1,8 +1,6 @@
 ---
-title: "Learn about the LaTeX Language"
-parent: "to-be-sorted"
+title: Learn About the Latex Language
 ---
-
 LaTeX is designed for the production of technical and scientific documentation. You can create matrix, arrays or several other mathmatical functions.
 
 `$$ (latex language) $$`

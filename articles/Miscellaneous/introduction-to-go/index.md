@@ -1,8 +1,6 @@
 ---
-title: "Introduction to Go"
-parent: "to-be-sorted"
+title: Introduction To Go
 ---
-
 ![Go Logo](//discourse-user-assets.s3.amazonaws.com/original/2X/5/5ed7b667bc504460ee0cc50628c1fc4274c373e9.png)
 
 [Go](https://golang.org/) is a statically typed, compiled language for systems programming; created by Google. Go was made [open source](https://github.com/golang/go) back in November 2009\. First stable version of Go was published back in March 2012.

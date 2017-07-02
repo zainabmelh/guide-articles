@@ -1,8 +1,6 @@
 ---
-title: "Free Code Camp Site Improvement August 2015"
-parent: "general"
+title: Free Code Camp Site Improvement August 2015
 ---
-
 ## Sunday's Improvements
 
 *   replaced our getting-started videos with a simple 10-minute process (using GIFs instead of videos)

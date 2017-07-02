@@ -1,8 +1,6 @@
 ---
-title: "Inherit Styles from the Body Element"
-parent: "certificates-guide"
+title: Inherit Styles From the Body Element
 ---
-
 The `body` element can be styled just like any other.
 
     <style>

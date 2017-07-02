@@ -1,8 +1,6 @@
 ---
-title: "Clojure The Basics"
-parent: "clojure"
+title: Clojure the Basics
 ---
-
 ### Getting Started
 
 Before we begin, you may want to [install Clojure](http://clojure.org/guides/getting_started) and [Leiningen](http://leiningen.org/#install) (which is a tool for managing projects in Clojure). This will let you run Clojure in the command line using a REPL (Read-Evaluate-Print-Loop).

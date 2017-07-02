@@ -1,8 +1,6 @@
 ---
-title: "DNA Pairing"
-parent: "certificates-guide"
+title: Dna Pairing
 ---
-
 <div class="lightbox-wrapper">[![](//discourse-user-assets.s3.amazonaws.com/optimized/2X/2/2798a83aaaa34ec2b18f4b8ec122b76c264a9d67_1_368x500.jpg)
 
 <div class="meta"><span class="filename">usiNBDU.jpg</span><span class="informations">450x611 47.1 KB</span><span class="expand"></span></div>](//discourse-user-assets.s3.amazonaws.com/original/2X/2/2798a83aaaa34ec2b18f4b8ec122b76c264a9d67.jpg "usiNBDU.jpg") </div>

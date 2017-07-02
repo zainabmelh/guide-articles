@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: ACID
 ---
-
 ### An Intro to this section

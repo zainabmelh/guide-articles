@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Median
 ---
-
 ### An Intro to this section

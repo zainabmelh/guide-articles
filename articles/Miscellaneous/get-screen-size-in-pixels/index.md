@@ -1,8 +1,6 @@
 ---
-title: "Get Screen Size In Pixels"
-parent: "to-be-sorted"
+title: Get Screen Size In Pixels
 ---
-
 There may be times where your JS application needs to know what the size of the screen is to be able to do certain actions.
 
 Luckily for us, there are built in JavaScript functions that can easily grab different dimensions of the screen on the user's device in pixels. What to use is dependent on what you'd like to do.

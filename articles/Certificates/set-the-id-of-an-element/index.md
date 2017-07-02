@@ -1,8 +1,6 @@
 ---
-title: "Set the ID of an Element"
-parent: "certificates-guide"
+title: Set the Id of An Element
 ---
-
 In addition to classes, each HTML element can also have an `id` attribute.
 
 There are several benefits to using id attributes, and you'll learn more about them once you start using jQuery.

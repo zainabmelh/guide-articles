@@ -1,8 +1,6 @@
 ---
-title: "Data Structure Trie"
-parent: "to-be-sorted"
+title: Data Structure Trie
 ---
-
 ## Introduction to Trie
 
 The word trie is an inflix of the word "re**trie**val", because the trie can find a single word in a dictionary with only a prefix of the word.  

@@ -1,8 +1,6 @@
 ---
-title: "Quoting Strings with Single Quotes"
-parent: "certificates-guide"
+title: Quoting Strings with Single Quotes
 ---
-
 String values in JavaScript may be written with single or double quotes, so long as you start and end with the same type of quote. Unlike some languages, single and double quotes are functionally identical in JavaScript.
 
 `"This string has \"double quotes\" in it"`

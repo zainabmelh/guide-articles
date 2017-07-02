@@ -1,8 +1,6 @@
 ---
-title: "12 Principles Behind The Agile Manifesto"
-parent: "to-be-sorted"
+title: 12 Principles Behind the Agile Manifesto
 ---
-
 ### We follow these principles:
 
 1.  Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.

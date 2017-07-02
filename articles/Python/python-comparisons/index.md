@@ -1,8 +1,6 @@
 ---
-title: "Python Comparisons"
-parent: "python"
+title: Python Comparisons
 ---
-
 [Python Docs - Comparisions](https://docs.python.org/3/library/stdtypes.html#comparisons)
 
 There are eight comparison operations in Python. They all have the same priority (which is higher than that of the Boolean operations). Comparisons can be chained arbitrarily; for example, `x < y <= z` is equivalent to `x < y and y <= z`, except that `y` is evaluated only once (but in both cases `z` is not evaluated at all when `x < y` is found to be false).

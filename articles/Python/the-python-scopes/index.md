@@ -1,8 +1,6 @@
 ---
-title: "The Python Scopes"
-parent: "python"
+title: the Python Scopes
 ---
-
 **TODO: NOTE**
 
 *   This belongs near the code block and indentation information.

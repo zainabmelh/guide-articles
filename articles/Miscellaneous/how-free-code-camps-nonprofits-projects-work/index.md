@@ -1,8 +1,6 @@
 ---
-title: "How Free Code Camp's Nonprofits Projects Work"
-parent: "to-be-sorted"
+title: How Free Code Camps Nonprofits Projects Work
 ---
-
 Building nonprofit projects is the main way that our campers learn full stack JavaScript and agile software development. You'll begin this process once you've earned your Front End Development, Data Visualization, and Back End Development certifications.
 
 ## Starting with the end in mind

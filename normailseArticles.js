@@ -52,8 +52,15 @@ function normaliseMeta(dirLevel) {
   fse.open(filePath, 'r', (err) => {
     if (err) {
       if (err.code === 'ENOENT') {
-        console.error('index.md does not exist in %s', filePath);
-        return;
+        console.error('index.md does not exist in %s', filePath.replace(/index\.md$/, ''));
+        return fse.ensureFile(filePath)
+          .then(() => {
+            console.log('%s created', filePath);
+            return normaliseMeta(dirLevel);
+          })
+          .catch(err => {
+            console.error(err);
+          });
       }
       throw err;
     }

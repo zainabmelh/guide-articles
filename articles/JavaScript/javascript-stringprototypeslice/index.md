@@ -1,8 +1,6 @@
 ---
-title: "JavaScript String.prototype.slice()"
-parent: "javascript"
+title: javaScript Stringprototypeslice
 ---
-
 The JavaScript string method `.slice()` extracts a portion of a string and returns a new string.
 
 ## Syntax

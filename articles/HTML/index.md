@@ -1,3 +1,6 @@
+---
+title: HTML
+---
 # HTML
 
 HTML, or HyperText Markup Language, is a markup language to describe the structure of most websites. You could build a website using nothing but HTML if you wanted to.

@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Scanning
 ---
-
 ### An Intro to this section

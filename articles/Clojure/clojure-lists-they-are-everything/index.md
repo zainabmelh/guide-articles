@@ -1,8 +1,6 @@
 ---
-title: "Clojure Lists: They are everything!"
-parent: "clojure"
+title: Clojure Lists They Are Everything
 ---
-
 Lists are fundamental to Clojure. Clojure is a Lisp, and Lisps were originally used for list processing. Everything in a Lisp is a list!
 
     (def foo "bar")

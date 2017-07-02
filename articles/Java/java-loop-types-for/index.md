@@ -1,8 +1,6 @@
 ---
-title: "Java Loop Types: for"
-parent: "java"
+title: Java Loop Types for
 ---
-
 # The Java For Loop
 
 The `for` loop give you a compact way to iterate over a range of values.

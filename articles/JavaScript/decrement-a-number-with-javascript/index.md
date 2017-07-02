@@ -1,8 +1,6 @@
 ---
-title: "Decrement a Number with JavaScript"
-parent: "javascript"
+title: Decrement A Number with javaScript
 ---
-
 You can easily decrement or decrease a variable by `1` with the `--` operator.
 
     i--;

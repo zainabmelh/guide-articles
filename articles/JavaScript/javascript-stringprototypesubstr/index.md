@@ -1,8 +1,6 @@
 ---
-title: "JavaScript String.prototype.substr()"
-parent: "javascript"
+title: javaScript Stringprototypesubstr
 ---
-
 Gets a substring beginning at the specified location and having the specified length.
 
 ## Syntax

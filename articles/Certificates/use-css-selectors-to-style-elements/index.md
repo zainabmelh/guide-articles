@@ -1,8 +1,6 @@
 ---
-title: "Use CSS Selectors to Style Elements"
-parent: "certificates-guide"
+title: Use CSS Selectors To Style Elements
 ---
-
 Instead of giving style attributes one by one, we can do this to multiple elements at the same time.
 
 You can create a style element like this: `<style></style>`.

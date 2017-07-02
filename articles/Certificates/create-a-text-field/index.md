@@ -1,8 +1,6 @@
 ---
-title: "Create a Text Field"
-parent: "certificates-guide"
+title: Create A Text Field
 ---
-
 Text inputs are a convenient way to get input from your user.
 
 You can create one like this:

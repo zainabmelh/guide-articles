@@ -1,8 +1,6 @@
 ---
-title: "Add Borders Around your Elements"
-parent: "certificates-guide"
+title: Add Borders Around Your Elements
 ---
-
 CSS borders have attributes like `style`, `color` and `width`.
 
 For example, if we wanted to create a red, 5 pixel border around an HTML element, we could use this class:

@@ -1,8 +1,6 @@
 ---
-title: "Markdown Code Formatting"
-parent: "to-be-sorted"
+title: Markdown Code Formatting
 ---
-
 **```js** ⇦ Type 3 backticks and then press `[shift + enter ⏎]` (type js or html or css)
 
     <paste your code here>,

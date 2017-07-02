@@ -1,8 +1,6 @@
 ---
-title: "Git Behind A Proxy Server"
-parent: "to-be-sorted"
+title: Git Behind A Proxy Server
 ---
-
 **Use-cases**
 
 You might need to modify `git` commands that access (to update and read from) remote repositories if your internet access is through a [proxy server](https://en.wikipedia.org/wiki/Proxy_server).

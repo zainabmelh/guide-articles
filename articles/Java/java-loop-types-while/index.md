@@ -1,8 +1,6 @@
 ---
-title: "Java Loop Types: while"
-parent: "java"
+title: Java Loop Types While
 ---
-
 # The Java While Loop
 
 The `while` statement evaluates the `expression` (which must return a boolean value), and if it is `true`, the `Statements` get executed.

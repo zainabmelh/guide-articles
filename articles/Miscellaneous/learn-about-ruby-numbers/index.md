@@ -1,8 +1,6 @@
 ---
-title: "Learn about Ruby Numbers"
-parent: "to-be-sorted"
+title: Learn About Ruby Numbers
 ---
-
 ### Basics:
 
 *   Ruby has two categories of numbers - integers and floating-point (also called floats).

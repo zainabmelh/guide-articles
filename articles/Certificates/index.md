@@ -1,5 +1,4 @@
 ---
-title: "Introduction: Certificates Guide"
+title: Certificates
 ---
-
 ### An Intro to this section

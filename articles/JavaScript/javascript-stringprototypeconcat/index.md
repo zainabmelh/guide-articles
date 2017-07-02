@@ -1,8 +1,6 @@
 ---
-title: "JavaScript String.prototype.concat()"
-parent: "javascript"
+title: javaScript Stringprototypeconcat
 ---
-
 The concat() method combines the text of two or more strings and returns a new string.
 
 **Syntax**

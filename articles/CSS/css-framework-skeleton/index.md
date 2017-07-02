@@ -1,8 +1,6 @@
 ---
-title: "CSS Framework Skeleton"
-parent: "css"
+title: CSS Framework Skeleton
 ---
-
 # CSS Framework Skeleton
 
 Skeleton is a dead simple boilerplate to kickstart any responsive project.

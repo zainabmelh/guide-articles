@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: GPU
 ---
-
 ### An Intro to this section

@@ -1,8 +1,6 @@
 ---
-title: "Free Code Camp's CamperBot"
-parent: "general"
+title: Free Code Camps Camperbot
 ---
-
 Hi, I'm **[CamperBot](https://github.com/FreeCodeCamp/freecodecamp/wiki/camperbot)**! I can help you in this chatroom ![:smile:](//forum.freecodecamp.com/images/emoji/emoji_one/smile.png?v=2 ":smile:")
 
 ### Basic Commands:

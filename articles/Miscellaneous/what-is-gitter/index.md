@@ -1,8 +1,6 @@
 ---
-title: "What is Gitter?"
-parent: "to-be-sorted"
+title: What Is Gitter
 ---
-
 # Gitter is a chat room system popular with open source projects.
 
 ![A screenshot from Gitter](//discourse-user-assets.s3.amazonaws.com/original/2X/9/901b6ff18a83b746b1b7e96cb6907440d531d977.png)

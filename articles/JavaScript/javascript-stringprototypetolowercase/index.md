@@ -1,8 +1,6 @@
 ---
-title: "JavaScript String.prototype.toLowerCase()"
-parent: "javascript"
+title: javaScript Stringprototypetolowercase
 ---
-
 The JavaScript method `.toLowerCase()` returns the same string it was called on, but in all lower case.
 
 **Syntax**

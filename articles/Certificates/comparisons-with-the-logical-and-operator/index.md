@@ -1,8 +1,6 @@
 ---
-title: "Comparisons with the Logical And Operator"
-parent: "certificates-guide"
+title: Comparisons with the Logical and Operator
 ---
-
 Sometimes you will need to test more than one thing at a time. The `logical and` operator (`&&`) returns `true` if and only if the `operands` to the left and right of it are true.
 
 The same effect could be achieved by nesting an if statement inside another if:

@@ -1,8 +1,6 @@
 ---
-title: "Learn about PHP Variables"
-parent: "to-be-sorted"
+title: Learn About Php Variables
 ---
-
 Variables are containers for storing data such as `strings`, `integers`, `boolean` values, `array` and objects.
 
 PHP follows certain rules for variable declarations such as:

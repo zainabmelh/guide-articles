@@ -1,8 +1,6 @@
 ---
-title: "Python Numeric Types"
-parent: "python"
+title: Python Numeric Types
 ---
-
 The [numeric types](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex) for Python are:
 
 *   integers (`int`)

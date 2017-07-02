@@ -1,8 +1,6 @@
 ---
-title: "Count Backwards With a For Loop"
-parent: "certificates-guide"
+title: Count Backwards with A for Loop
 ---
-
 A for loop can also count backwards, so long as we can define the right conditions.
 
 In order to count backwards by twos, we'll need to change our `initialization`, `condition`, and `final-expression`.

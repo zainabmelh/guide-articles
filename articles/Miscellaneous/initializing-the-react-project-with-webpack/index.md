@@ -1,8 +1,6 @@
 ---
-title: "Initializing the React Project with Webpack"
-parent: "to-be-sorted"
+title: Initializing the React Project with Webpack
 ---
-
 The first thing to do is open our terminal/command line. We need to install Webpack and Webpack Dev Server globally.
 
 *   [Help: More about installing Node Modules globally](https://docs.npmjs.com/getting-started/installing-npm-packages-globally)

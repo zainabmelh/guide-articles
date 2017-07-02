@@ -1,8 +1,6 @@
 ---
-title: "HTML Elements"
-parent: "to-be-sorted"
+title: HTML Elements
 ---
-
 Most HTML elements have an opening tag and a closing tag.
 
 Opening tags look like this: `<h1>` and Closing tags look like this: `</h1>`.

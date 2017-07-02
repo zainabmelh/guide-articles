@@ -1,8 +1,6 @@
 ---
-title: "Free Code Camp Hotkeys"
-parent: "general"
+title: Free Code Camp Hotkeys
 ---
-
 freeCodeCamp has a number of hotkeys, so power users can get around quickly.
 
 ## How to use the hotkeys

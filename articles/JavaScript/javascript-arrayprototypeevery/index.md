@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Array.prototype.every()"
-parent: "javascript"
+title: javaScript Arrayprototypeevery
 ---
-
 The `every()` method tests whether all elements in the array pass the test implemented by the provided function.
 
 **Syntax**

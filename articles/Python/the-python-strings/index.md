@@ -1,8 +1,6 @@
 ---
-title: "The Python Strings"
-parent: "python"
+title: the Python Strings
 ---
-
 Python allows `str` objects, or _strings_, to be expressed in a few different ways:
 
 *   Single quotes: `'Single quote strings can have "double" quotes inside.'`

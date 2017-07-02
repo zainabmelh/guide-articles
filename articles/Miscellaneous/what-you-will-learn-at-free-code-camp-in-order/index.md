@@ -1,8 +1,6 @@
 ---
-title: "What you will learn at Free Code Camp in order"
-parent: "to-be-sorted"
+title: What You Will Learn At Free Code Camp In Order
 ---
-
 *   [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - The structure of web pages.
 *   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - The visual style of web pages.
 *   [Bootstrap](http://getbootstrap.com/) - A "responsive design" tool that helps your websites look great on tablets and phones.

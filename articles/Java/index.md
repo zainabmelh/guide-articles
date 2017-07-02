@@ -1,5 +1,4 @@
 ---
-title: "Introduction: Java"
+title: Java
 ---
-
 ### An Intro to this section

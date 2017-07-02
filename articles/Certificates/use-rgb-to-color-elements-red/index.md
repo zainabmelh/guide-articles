@@ -1,6 +1,4 @@
 ---
-title: "Use RGB to Color Elements Red"
-parent: "certificates-guide"
+title: Use Rgb To Color Elements Red
 ---
-
-    background-color: rgb(255, 0, 0)
+background-color: rgb(255, 0, 0)

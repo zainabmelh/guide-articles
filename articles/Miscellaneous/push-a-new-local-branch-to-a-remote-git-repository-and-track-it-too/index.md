@@ -1,8 +1,6 @@
 ---
-title: "Push a new local branch to a remote Git repository and track it too"
-parent: "to-be-sorted"
+title: Push A New Local Branch To A Remote Git Repository and Track It Too
 ---
-
 1.  Create a new branch:  
     `git checkout -b feature_branch_name`
 2.  Edit, add and commit your files.

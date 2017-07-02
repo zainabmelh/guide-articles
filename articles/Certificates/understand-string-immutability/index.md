@@ -1,8 +1,6 @@
 ---
-title: "Understand String Immutability"
-parent: "certificates-guide"
+title: Understand String Immutability
 ---
-
 In Javascript, String values are `immutable`, which means that they cannot be altered once created.
 
 ## Example

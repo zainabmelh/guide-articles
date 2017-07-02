@@ -1,8 +1,6 @@
 ---
-title: "JavaScript String.prototype.charAt()"
-parent: "javascript"
+title: javaScript Stringprototypecharat
 ---
-
 The `charAt()` method returns the specified character from a string.
 
 ## Syntax

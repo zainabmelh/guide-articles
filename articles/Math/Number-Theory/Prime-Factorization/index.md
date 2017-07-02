@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Prime Factorization
 ---
-
 ### An Intro to this section

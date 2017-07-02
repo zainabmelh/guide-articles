@@ -1,8 +1,6 @@
 ---
-title: "JavaScript string.length"
-parent: "javascript"
+title: javaScript Stringlength
 ---
-
 The `length` property represents the length of a string.
 
 ## Syntax

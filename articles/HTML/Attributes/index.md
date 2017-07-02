@@ -1,3 +1,6 @@
+---
+title: Attributes
+---
 # HTML Attributes
 
 HTML elements can have attributes, which contain additional information about the element.

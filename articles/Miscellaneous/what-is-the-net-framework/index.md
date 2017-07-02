@@ -1,8 +1,6 @@
 ---
-title: "What is the .NET Framework?"
-parent: "to-be-sorted"
+title: What Is the Net Framework
 ---
-
 ![.NET Logo](//discourse-user-assets.s3.amazonaws.com/original/2X/7/7068b1111104197f2692a98aec00f388e09e9ab5.png)
 
 [.NET Framework](https://www.microsoft.com/net) or simply, .NET is a multi-purpose multi-language runtime framework; created and owned by [Microsoft](https://www.microsoft.com).

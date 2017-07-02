@@ -1,8 +1,6 @@
 ---
-title: "Learn about python sets"
-parent: "python"
+title: Learn About Python Sets
 ---
-
 **TODO: `set` basic info**
 
 **Mutable**

@@ -1,5 +1,4 @@
 ---
-title: "Introduction: General"
+title: Meta
 ---
-
 ### An Intro to this section

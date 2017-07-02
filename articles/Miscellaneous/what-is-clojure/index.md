@@ -1,8 +1,6 @@
 ---
-title: "What is Clojure?"
-parent: "to-be-sorted"
+title: What Is Clojure
 ---
-
 ## Clojure is a dialect of Lisp.
 
 Lisps are an entirely separate family of languages to C-like languages such as C#, Javascript, Python or Ruby. This means Lisps might look odd to programmers who are more familiar with these languages. Essentially, being a Lisp means that everything in Clojure is a list containing data (even function calls!), it has dynamic typing, and you can define _macros_ that let you manipulate your own code. Here's a simple example of some Clojure for you to examine:

@@ -1,8 +1,6 @@
 ---
-title: "Nest Many Elements within a Single Div Element"
-parent: "certificates-guide"
+title: Nest Many Elements Within A Single Div Element
 ---
-
 The `div` element, also known as a division element, is a general purpose container for other elements.
 
 The div element is probably the most commonly used HTML element of all. It's useful for passing the CSS of its own class declarations down to all the elements that it contains.

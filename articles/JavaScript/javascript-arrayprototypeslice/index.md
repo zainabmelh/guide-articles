@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Array.prototype.slice()"
-parent: "javascript"
+title: javaScript Arrayprototypeslice
 ---
-
 > The `slice()` method returns a shallow copy of a portion of an array into a new array object.
 
     arr.slice([begin[, end]])

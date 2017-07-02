@@ -1,8 +1,6 @@
 ---
-title: "Java Loops: do..while"
-parent: "java"
+title: Java Loops Dowhile
 ---
-
 # Java do..while Loop
 
 The `do..while` loop is a special case of the `while` loop wherein the group of statements is guranteed to run atleast once before checking for a given condition. Confused? Ok, the follwing example should clear things up.

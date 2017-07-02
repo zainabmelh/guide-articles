@@ -1,8 +1,6 @@
 ---
-title: "Accessing Nested Objects in JSON"
-parent: "certificates-guide"
+title: Accessing Nested Objects In Json
 ---
-
 The properties and sub-properties of JSON objects can be accessed by chaining together the dot or bracket notation.
 
 Here is a nested JSON Object:

@@ -1,8 +1,6 @@
 ---
-title: "Using Array.prototype.reduce() to Reduce Conceptual Boilerplate for Problems on Arrays"
-parent: "to-be-sorted"
+title: Using Arrayprototypereduce To Reduce Conceptual Boilerplate for Problems On Arrays
 ---
-
 That's quite a mouthful! It could have just been titled as **Use <a>`Array.prototype.reduce()`</a> to Solve Array Problems Easily** or **`Array.prototype.reduce()` FTW!**. That would have been so much easier to read and parse.
 
 But It was not. Loops in JavaScript are just like that. They are not terse, they make you beat around the bush for a while. As the joke goes, two things are most difficult in computer science - [cache invalidation](https://en.wikipedia.org/wiki/Cache_invalidation), [naming things](https://www.quora.com/Why-is-naming-things-hard-in-computer-science-and-how-can-it-can-be-made-easier), and [off-by-one error](https://en.wikipedia.org/wiki/Off-by-one_error).

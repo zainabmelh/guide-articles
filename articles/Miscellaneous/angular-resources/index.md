@@ -1,8 +1,6 @@
 ---
-title: "Angular Resources"
-parent: "to-be-sorted"
+title: Angular Resources
 ---
-
 A collection of helpful Angular resources
 
 ## General Pages

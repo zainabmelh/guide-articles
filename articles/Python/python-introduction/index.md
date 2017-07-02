@@ -1,8 +1,6 @@
 ---
-title: "Python Introduction"
-parent: "python"
+title: Python Introduction
 ---
-
 ## What is Python?
 
 <a>Python</a> is a general purpose programming language which is dynamically typed, interpreted, and known for its easy readability with great design principles.

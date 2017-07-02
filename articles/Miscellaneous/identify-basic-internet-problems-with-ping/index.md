@@ -1,8 +1,6 @@
 ---
-title: "Identify Basic Internet Problems with ping"
-parent: "to-be-sorted"
+title: Identify Basic Internet Problems with Ping
 ---
-
 ![Sonar screen](//discourse-user-assets.s3.amazonaws.com/original/2X/b/b1bfc671722851eed4adfe2d4ec24eb9ab8a875b.png)
 
 Next time you call your help desk, do you want to wow them with your networking knowledge? Using a command called "ping", built right into your existing Mac, Windows, or Linux computer, will help identify basic connection problems. Okay, this might not be enough to "wow" your fellow team members, however they will appreciate that you started the debug process. And please remember that your Support personnel are debug specialists, so follow their instructions when they step you through the troubleshooting sequence.

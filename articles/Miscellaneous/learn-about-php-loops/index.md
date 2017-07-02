@@ -1,8 +1,6 @@
 ---
-title: "Learn about PHP Loops"
-parent: "to-be-sorted"
+title: Learn About Php Loops
 ---
-
 Loops are blocks of code that execute a specified number of times. Using loops reduces the number of lines of code.
 
 PHP works with 4 different types of loops:

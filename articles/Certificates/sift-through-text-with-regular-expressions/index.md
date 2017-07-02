@@ -1,8 +1,6 @@
 ---
-title: "Sift through Text with Regular Expressions"
-parent: "certificates-guide"
+title: Sift Through Text with Regular Expressions
 ---
-
 `Regular expressions` are used to find certain words or patterns inside of strings.
 
 Regular expressions are usually surrounded by `/` symbols.

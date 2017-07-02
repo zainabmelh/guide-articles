@@ -1,8 +1,6 @@
 ---
-title: "Checkout A Remote Branch in Git"
-parent: "to-be-sorted"
+title: Checkout A Remote Branch In Git
 ---
-
 # Checkout a remote branch workflow
 
 Depending on how many remotes are present for your local repo, follow the appropriate flow.

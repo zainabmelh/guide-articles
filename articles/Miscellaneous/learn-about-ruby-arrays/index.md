@@ -1,8 +1,6 @@
 ---
-title: "Learn About Ruby Arrays"
-parent: "to-be-sorted"
+title: Learn About Ruby Arrays
 ---
-
 ### Basics:
 
 *   Arrays are a list of indexed items stored inside `[]` brackets.

@@ -1,8 +1,6 @@
 ---
-title: "Make Useful APIs in AngularJS"
-parent: "to-be-sorted"
+title: Make Useful Apis In Angularjs
 ---
-
 There are two more things you have to do before this to be useful to you, however. Say you want to show all the _things_ associated with the username requested with that page: you must first
 
 1.  Have a "username" or "owner" field in your _thing_ schema at `/server/api/thing/thing.model.js`

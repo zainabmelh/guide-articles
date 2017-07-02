@@ -1,8 +1,6 @@
 ---
-title: "Installing DevTools and modern web browsers"
-parent: "to-be-sorted"
+title: Installing Devtools and Modern Web Browsers
 ---
-
 We show you how to install various programming langauges, devtools and web browsers on Ubuntu.
 
 ## Widely used tools:

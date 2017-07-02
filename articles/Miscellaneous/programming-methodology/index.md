@@ -1,8 +1,6 @@
 ---
-title: "Programming Methodology"
-parent: "to-be-sorted"
+title: Programming Methodology
 ---
-
 ### Foundational Agile Principles
 
 **_Individuals and interactions_** over **_Processes and tools_**

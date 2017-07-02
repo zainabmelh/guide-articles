@@ -1,8 +1,6 @@
 ---
-title: "Java Docs: Loops"
-parent: "java"
+title: Java Docs Loops
 ---
-
 # Java Loops
 
 Whenever you need to execute a block of code multiple times, a loop will often come in handy. In general, a loop looks something like this:

@@ -1,8 +1,6 @@
 ---
-title: "Delete Properties from a JavaScript Object"
-parent: "javascript"
+title: Delete Properties From A javaScript Object
 ---
-
 We can also delete properties from objects like this:
 
     delete ourDog.bark;

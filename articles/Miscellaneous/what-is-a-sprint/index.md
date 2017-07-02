@@ -1,8 +1,6 @@
 ---
-title: "What is a Sprint?"
-parent: "to-be-sorted"
+title: What Is A Sprint
 ---
-
 A **sprint** is a set period of time broken out from a project's overall timeline with associated tasks to be completed during that period of time. That list of tasks is referred to as the sprint's _Product Backlog_.
 
 The ideology behind a _sprint_ allows a larger timeline to be easily broken into smaller, more digestible pieces in order to focus effort from all stakeholders on a few logically scheduled tasks at a time.

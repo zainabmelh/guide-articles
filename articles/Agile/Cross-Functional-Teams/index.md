@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Cross Functional Teams
 ---
-
 ### An Intro to this section

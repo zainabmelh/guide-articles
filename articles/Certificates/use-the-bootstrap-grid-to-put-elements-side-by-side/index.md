@@ -1,8 +1,6 @@
 ---
-title: "Use the Bootstrap Grid to Put Elements Side By Side"
-parent: "certificates-guide"
+title: Use the Bootstrap Grid To Put Elements Side By Side
 ---
-
 Bootstrap uses a responsive grid system that makes it easier to put elements into rows and tell each element's relative width.
 
 <div class="lightbox-wrapper">[![Bootstrap 12 column grid layout](https://www.evernote.com/shard/s116/sh/f0944d97-08b8-4615-8273-a327bf41fb05/de1a3acbceef89ae/deep/0/)

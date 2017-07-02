@@ -1,8 +1,6 @@
 ---
-title: "String.prototype.lastIndexOf()"
-parent: "to-be-sorted"
+title: Stringprototypelastindexof
 ---
-
 The `lastIndexOf()` method returns the index within the calling String object of the last occurrence of the specified value, or -1 if not found. The calling string is searched backward, starting at `fromIndex`.
 
 ## Syntax

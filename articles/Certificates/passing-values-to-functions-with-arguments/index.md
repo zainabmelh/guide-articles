@@ -1,8 +1,6 @@
 ---
-title: "Passing Values to Functions with Arguments"
-parent: "certificates-guide"
+title: Passing Values To Functions with Arguments
 ---
-
 `Parameters` are variables that act as placeholders for the values that are to be input to a function when it is called. When a function is defined, it is typically defined along with one or more parameters. The actual values that are input (or "_passed_") into a function when it is called are known as `arguments`.
 
 Here is a function with two parameters, `param1` and `param2`:

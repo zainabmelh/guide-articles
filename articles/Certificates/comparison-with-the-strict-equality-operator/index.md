@@ -1,8 +1,6 @@
 ---
-title: "Comparison with the Strict Equality Operator"
-parent: "certificates-guide"
+title: Comparison with the Strict Equality Operator
 ---
-
 Strict equality (`===`) is the counterpart to the equality operator (`==`). Unlike the equality operator, strict equality tests both the `type` and `value` of the compared elements.
 
 ## Examples

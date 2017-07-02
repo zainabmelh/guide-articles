@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Buttons
 ---
-
 ### An Intro to this section

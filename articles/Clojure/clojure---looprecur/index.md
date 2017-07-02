@@ -1,8 +1,6 @@
 ---
-title: "Clojure - Loop/Recur"
-parent: "clojure"
+title: Clojure   Looprecur
 ---
-
 You may need to understand [`if`](//forum.freecodecamp.com/t/clojure-conditionals/18412) and [`let`](//forum.freecodecamp.com/t/clojure-create-local-variables-with-let/18415) to fully grasp recursion in Clojure.
 
 ## `for` and `while`

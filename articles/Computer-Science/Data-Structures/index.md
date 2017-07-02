@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Data Structures
 ---
-
 ### An Intro to this section

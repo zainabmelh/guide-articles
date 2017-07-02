@@ -1,8 +1,6 @@
 ---
-title: "Free Code Camp Honesty Policy"
-parent: "general"
+title: Free Code Camp Honesty Policy
 ---
-
 Before we issue our verified certificate to a camper, he or she must accept our Academic Honesty Pledge, which reads:
 
 1.  I understand that plagiarism means copying someone else's work and presenting the work as if it were my own, without clearly attributing the original author.

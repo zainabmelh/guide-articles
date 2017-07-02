@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Loops"
-parent: "javascript"
+title: javaScript Loops
 ---
-
 Javascript has a few different ways to control flow, otherwise known as loops
 
 *   [for](http://forum.freecodecamp.com/t/javascript-for-loop/14666)

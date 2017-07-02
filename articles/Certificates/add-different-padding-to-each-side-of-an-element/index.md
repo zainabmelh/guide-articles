@@ -1,8 +1,6 @@
 ---
-title: "Add Different Padding to Each Side of an Element"
-parent: "certificates-guide"
+title: Add Different Padding To Each Side of An Element
 ---
-
 CSS allows you to control the padding of an element on all four sides with `padding-top`, `padding-right`, `padding-bottom`, and `padding-left` attributes.
 
     .green-box {

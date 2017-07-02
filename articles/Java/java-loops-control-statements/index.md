@@ -1,8 +1,6 @@
 ---
-title: "Java Loops: Control Statements"
-parent: "java"
+title: Java Loops Control Statements
 ---
-
 # Java Loop Control Statements
 
 Loop control statements change execution from its normal sequence. When execution leaves a scope, all automatic objects that were created in that scope are destroyed.

@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Inverse Relations
 ---
-
 ### An Intro to this section

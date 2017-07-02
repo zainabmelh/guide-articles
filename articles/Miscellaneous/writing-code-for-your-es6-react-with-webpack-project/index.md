@@ -1,8 +1,6 @@
 ---
-title: "Writing Code for your ES6 React with Webpack Project"
-parent: "to-be-sorted"
+title: Writing Code for Your Es6 React with Webpack Project
 ---
-
 ## dist/index.html
 
 We can go now open our `dist/index.html`. This will be the one HTML page that loads our entire app. We don't need much code at all for this file, just enough to:

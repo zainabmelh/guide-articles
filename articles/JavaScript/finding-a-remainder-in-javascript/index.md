@@ -1,8 +1,6 @@
 ---
-title: "Finding a Remainder in JavaScript"
-parent: "javascript"
+title: Finding A Remainder In javaScript
 ---
-
 The _remainder operator_ `%` gives the remainder of the division of two numbers.
 
 ## Example

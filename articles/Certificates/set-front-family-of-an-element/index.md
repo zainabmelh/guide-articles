@@ -1,8 +1,6 @@
 ---
-title: "Set Front Family of an Element"
-parent: "certificates-guide"
+title: Set Front Family of An Element
 ---
-
 Font family is controlled by the `font-family` CSS attribute, like this `h1 {font-family: Sans-serif;}`
 
 It allows you to pick a font to display to the user.

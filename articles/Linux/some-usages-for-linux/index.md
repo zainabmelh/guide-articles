@@ -1,8 +1,6 @@
 ---
-title: "Some Usages for Linux"
-parent: "linux"
+title: Some Usages for Linux
 ---
-
 *   Linux now operates on the majority of smartphones and tablets around the world via the [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) OS (based off the Linux kernel). As of March 2016 Android holds [60.99%](https://www.netmarketshare.com/operating-system-market-share.aspx?qprid=8&qpcustomd=1) of the market share on mobile devices (tablets and smartphones). It also holds [82.8%](http://www.idc.com/prodserv/smartphone-os-market-share.jsp) for smartphones alone (per 2015 Q2 numbers).
 *   As of March 2016, Alexa reported that [96.55%](http://www.w3cook.com/os/summary/) of the top 1 million Internet domains in the world are powered by servers running Linux.
 *   The [New York Stock Exchange (NYSE)](https://en.wikipedia.org/wiki/New_York_Stock_Exchange), the largest stock exchange in the world which trades securities worth billions of dollars daily are executed by servers that run on Linux after moving away from UNIX.

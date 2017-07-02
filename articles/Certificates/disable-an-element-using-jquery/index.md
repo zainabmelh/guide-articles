@@ -1,8 +1,6 @@
 ---
-title: "Disable an Element Using jQuery"
-parent: "certificates-guide"
+title: Disable An Element Using Jquery
 ---
-
 You can also change the non-CSS properties of HTML elements with jQuery. For example, you can disable buttons.
 
 When you disable a button, it will become grayed-out and can no longer be clicked.

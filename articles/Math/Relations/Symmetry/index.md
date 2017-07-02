@@ -1,5 +1,4 @@
 ---
-title: "Placeholder"
+title: Symmetry
 ---
-
 ### An Intro to this section

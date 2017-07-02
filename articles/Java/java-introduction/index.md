@@ -1,8 +1,6 @@
 ---
-title: "Java Introduction"
-parent: "java"
+title: Java Introduction
 ---
-
 # Java Introduction
 
 **What is Java?**

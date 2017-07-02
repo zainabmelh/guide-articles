@@ -1,8 +1,6 @@
 ---
-title: "Use RGB values to Color Elements"
-parent: "certificates-guide"
+title: Use Rgb Values To Color Elements
 ---
-
 Another way you can represent colors in CSS is by using `rgb` values.
 
 RGB values look like this: `rgb(0, 0, 0)` for black and `rgb(255, 255, 255)` for white.

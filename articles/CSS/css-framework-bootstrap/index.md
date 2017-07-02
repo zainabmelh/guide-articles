@@ -1,8 +1,6 @@
 ---
-title: "CSS Framework Bootstrap"
-parent: "css"
+title: CSS Framework Bootstrap
 ---
-
 # CSS Framework Bootstrap
 
 Bootstrap is the most popular CSS framework for developing responsive, mobile first projects for the web.

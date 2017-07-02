@@ -1,8 +1,6 @@
 ---
-title: "Get started with Node.js"
-parent: "to-be-sorted"
+title: Get Started with Nodejs
 ---
-
 ### Tutorials:
 
 *   [NodeSchool.io interactive lessons](http://nodeschool.io/)

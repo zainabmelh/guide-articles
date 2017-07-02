@@ -1,8 +1,6 @@
 ---
-title: "Add a Submit Button to a Form"
-parent: "certificates-guide"
+title: Add A Submit Button To A Form
 ---
-
 You will need to create a `button` element. Here's an example submit button:
 
     <button type="submit">this button submits the form</button>

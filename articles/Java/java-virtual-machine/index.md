@@ -1,8 +1,6 @@
 ---
-title: "Java Virtual Machine"
-parent: "java"
+title: Java Virtual Machine
 ---
-
 # The Java Virtual Machine (JVM)
 
 Java belongs to a family of languages called [**Compiled Languages**](https://en.wikipedia.org/wiki/Compiled_language). Any code written in such a language needs to be converted (compiled) to an intermediate form that can then be understood by the host platform (the OS/platform in which the code runs).

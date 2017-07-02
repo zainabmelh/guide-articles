@@ -1,3 +1,6 @@
+---
+title: Fieldsets and Legends
+---
 #### Suggested Reading:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 See the [WebAIM site](http://webaim.org/techniques/forms/controls) for accessible form examples - specifically the part about radio buttons

@@ -1,8 +1,6 @@
 ---
-title: "Free Code Camp's August Live Stream"
-parent: "general"
+title: Free Code Camps August Live Stream
 ---
-
 # Free Code Camp's [August Live Stream](https://youtu.be/UhoxoYrJ6Qs) was the largest yet.
 
 ## The agenda included:

@@ -1,8 +1,6 @@
 ---
-title: "Known Issues With Codepen"
-parent: "to-be-sorted"
+title: Known Issues with Codepen
 ---
-
 Free Code Camp learners are encouraged to use [Codepen.io](http://www.codepen.io/) to put together projects, and Codepen is a fantastic resource for quickly putting together useable code. However, Codepen does introduce an additional level of abstraction into the process of debugging code. Here are some known issues that can trip you up in Codepen, if you're not aware of them:
 
 1.  **URL issue with anchor tags:** CodePen overrides `<a href='URL'>` anchor elements, which means that you have to add a `target='_blank'` to your anchor elements - otherwise they won't work.

@@ -1,8 +1,6 @@
 ---
-title: "Java Docs: Control Flow"
-parent: "java"
+title: Java Docs Control Flow
 ---
-
 # Java Control Flow
 
 Control flow statements are exactly what the term means. They are statements that alter execution flow based on decisions, loops and branching so that the program can conditionally execute blocks of code.

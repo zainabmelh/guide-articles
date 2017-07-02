@@ -1,8 +1,6 @@
 ---
-title: "How to reach Free Code Camp team for interviews"
-parent: "how-to"
+title: How To Reach Free Code Camp Team for Interviews
 ---
-
 We're happy to do a quick interview for your publication or show. Here's whom you should contact about what, and how to best reach them:
 
 *   Want to talk to about Free Code Camp's curriculum or long-term vision? Reach out to Quincy Larson. He's [@ossia on Twitter](https://twitter.com/ossia) and [@quincylarson](/users/quincylarson) on Gitter.

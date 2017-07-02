@@ -1,8 +1,6 @@
 ---
-title: "JavaScript Object.getOwnPropertyNames()"
-parent: "javascript"
+title: javaScript Objectgetownpropertynames
 ---
-
 The `Object.getOwnPropertyNames()` method returns an array of all properties (enumerable or not) found directly upon a given object.
 
 ## Syntax

@@ -1,8 +1,6 @@
 ---
-title: "Cloning all remote branches in Git"
-parent: "to-be-sorted"
+title: Cloning All Remote Branches In Git
 ---
-
 To clone a remote git repository, enter the following into the terminal:
 
 > Note: Make sure you are in a root folder e.g. `webdev` instead of a project specific folder.

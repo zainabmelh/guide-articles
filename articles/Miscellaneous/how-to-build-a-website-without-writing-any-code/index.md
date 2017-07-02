@@ -1,8 +1,6 @@
 ---
-title: "How to Build a Website without writing any code"
-parent: "how-to"
+title: How To Build A Website Without Writing Any Code
 ---
-
 It's possible to build dynamic, mobile-responsive websites without writing any code at all, in just a few minutes.
 
 <iframe src="https://player.vimeo.com/video/115194017" width="480" height="270" frameborder="0" title="Deploy a Dynamic Website in Minutes" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>

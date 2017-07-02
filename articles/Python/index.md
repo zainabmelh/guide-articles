@@ -1,5 +1,4 @@
 ---
-title: "Introduction: Python"
+title: Python
 ---
-
 ### An Intro to this section

@@ -1,8 +1,6 @@
 ---
-title: "What to do if you speak a language not yet supported by Free Code Camp"
-parent: "to-be-sorted"
+title: What To Do If You Speak A Language Not Yet Supported By Free Code Camp
 ---
-
 Translation is an all-or-nothing proposal.
 
 We won't be able to add new languages to Free Code Camp until all of our  

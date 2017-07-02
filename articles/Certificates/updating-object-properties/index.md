@@ -1,8 +1,6 @@
 ---
-title: "Updating Object Properties"
-parent: "certificates-guide"
+title: Updating Object Properties
 ---
-
 After you've created a JavaScript object, you can update its properties at any time just like you would update any other variable. You can use either dot or bracket notation to update.
 
 For example, let's look at `ourDog`:
