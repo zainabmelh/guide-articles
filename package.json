@@ -5,7 +5,7 @@
   "main": "normaliseArticles.js",
   "scripts": {
     "meta": "node normaliseArticles.js",
-    "lint": "eslint . --ext .json --ext .md",
+    "lint": "eslint . --ext .md",
     "pretest": "npm run lint",
     "test": "echo \"No tests\""
   },
