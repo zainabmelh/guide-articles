@@ -1,4 +1,14 @@
 ---
 title: Hash Tables
 ---
-### An Intro to this section
+
+## Hash Tables
+
+This is a stub. [Help our community expand it.](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Computer-Science/Data-Structures/Hash-Tables/index.md)
+
+<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+
+#### More Information:
+<!-- Please add any articles you think might be helpful to read before writing the article -->
+
+

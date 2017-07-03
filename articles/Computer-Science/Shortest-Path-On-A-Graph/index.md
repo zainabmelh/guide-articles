@@ -1,4 +1,14 @@
 ---
 title: Shortest Path On A Graph
 ---
-### An Intro to this section
+
+## Shortest Path On A Graph
+
+This is a stub. [Help our community expand it.](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Computer-Science/Shortest-Path-On-A-Graph/index.md)
+
+<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+
+#### More Information:
+<!-- Please add any articles you think might be helpful to read before writing the article -->
+
+
