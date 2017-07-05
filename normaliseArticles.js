@@ -6,6 +6,7 @@ const { Observable } = Rx;
 const metaRE = /---[\W\w]*?---\n*?/;
 const isAFileRE = /(\.md|\.jsx?|\.html?)$/;
 const shouldBeIgnoredRE = /^(\_|\.)/;
+const isAStubRE = /This\sis\sa\sstub\.\s\[Help\sour\scommunity\sexpand\sit\]/;
 
 function readDir(dir) {
   return fse.readdirSync(dir)
@@ -22,7 +23,9 @@ function appendStub(title, path) {
   return `
 ## ${title}
 
-This is a stub. [Help our community expand it.](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/${filePath}/index.md)
+This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/${filePath}/index.md).
+
+[This quick style guide will help ensure your pull request gets accepted](https://github.com/freeCodeCamp/guide-articles/blob/master/README.md).
 
 <!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
 
@@ -98,7 +101,10 @@ title: ${pageTitle}
         let normailised = content
           .replace(metaRE, '')
           .trim();
-        if (normailised.length < 30) {
+        if (
+          normailised.length < 30 |
+          isAStubRE.test(content)
+        ) {
           normailised = appendStub(pageTitle, dirLevel);
         }
         fse.writeFile(filePath, newMeta.concat(normailised));
