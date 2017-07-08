@@ -1,10 +1,12 @@
 ---
-title: What Is An SDK
+title: What Is An Sdk
 ---
 
-## What Is An SDK
+## What Is An Sdk
 
-This is a stub. [Help our community expand it.](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Computer-Science/What-Is-An-SDK/index.md)
+This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Computer-Science/What-Is-An-SDK/index.md).
+
+[This quick style guide will help ensure your pull request gets accepted](https://github.com/freeCodeCamp/guide-articles/blob/master/README.md).
 
 <!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
 

@@ -1,10 +1,12 @@
 ---
-title: The Programmers Oath
+title: the Programmers Oath
 ---
 
-## The Programmers Oath
+## the Programmers Oath
 
-This is a stub. [Help our community expand it.](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Ethics/The-Programmers-Oath/index.md)
+This is a stub. [Help our community expand it](https://github.com/freeCodeCamp/guide-articles/tree/master/articles/Ethics/The-Programmers-Oath/index.md).
+
+[This quick style guide will help ensure your pull request gets accepted](https://github.com/freeCodeCamp/guide-articles/blob/master/README.md).
 
 <!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
 
